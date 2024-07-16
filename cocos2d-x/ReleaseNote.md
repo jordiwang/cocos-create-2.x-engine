@@ -2,6 +2,8 @@
 
 ### 2024-07-16
 
+
+- Android 上使用 `uv_run` 替代 thread sleeping, 提升响应速度。
 - 添加 Worker 实现
 - Android/iOS 集成 tflite
 - 添加运行时 GPU 压缩纹理/缓存 支持

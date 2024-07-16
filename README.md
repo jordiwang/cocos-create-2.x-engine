@@ -19,6 +19,7 @@
 - 添加 [Web Worker](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers)，释放多核性能。
 - 添加运行时 GPU 纹理支持，动态选择支持格式。
 - 内建 Tensorflow Lite，方便集成 AI 能力。
+- 减少Android 上触控事件/网络事件的延迟。
 
 [具体改动](./cocos2d-x/ReleaseNote.md)
 
@@ -31,4 +32,3 @@
 
 - 提供基础文档
 - 其他： *欢迎反馈*
-
