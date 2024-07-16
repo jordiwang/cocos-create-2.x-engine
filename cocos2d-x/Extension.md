@@ -121,8 +121,8 @@ USE_TFLITE=1
 ### 示例
 
 ```ts
-const input = new Float32Array(8 * 8 * 3);
-const output = new Float32Array(43);
+const input = new Float32Array(111);
+const output = new Float32Array(11);
 const modelRawData = [];
 
 // 加载模型 
@@ -131,13 +131,8 @@ const modelId = jsb.loadModel(buffer);
 modelRawData.push(buffer);
 
 // 准备 input
-for (let i = 0; i < 8; i++) {
-    for (let j = 0; j < 8; j++) {
-        let s = (i * 8 + j) * 3;
-        input[s] = board.state.emptyAt(i * 8 + j) ? 0 : 1;
-        input[s + 1] = 0;
-        input[s + 2] = 0;
-    }
+for (let i = 0; i < 111; i++) {
+...
 }
 
 // 执行模型
