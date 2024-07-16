@@ -1,0 +1,40 @@
+{
+    "paths": {
+        "45fd8615-a334-4408-97aa-74b2a661f32b": [
+            "qingting",
+            "sp.SkeletonData"
+        ],
+        "9e90a619-bd57-4a29-a3f9-3641d9dd8e9a": [
+            "qingting",
+            "cc.Asset"
+        ],
+        "b5c63fd3-d017-4311-894b-ed74cf9cbb4b": [
+            "qingting",
+            "cc.Texture2D"
+        ],
+        "cba5f2b2-e07c-49e9-9804-a48b775f1e4c": [
+            "qingting",
+            "cc.SpriteFrame",
+            1
+        ],
+        "cf0e1bb3-8643-47f2-a9db-d0595b05dfbf": [
+            "qingting",
+            "cc.Prefab"
+        ]
+    },
+    "uuids": [
+        "45fd8615-a334-4408-97aa-74b2a661f32b",
+        "9e90a619-bd57-4a29-a3f9-3641d9dd8e9a",
+        "b5c63fd3-d017-4311-894b-ed74cf9cbb4b",
+        "cba5f2b2-e07c-49e9-9804-a48b775f1e4c",
+        "cf0e1bb3-8643-47f2-a9db-d0595b05dfbf"
+    ],
+    "scenes": {},
+    "redirect": [],
+    "deps": [],
+    "packs": {},
+    "name": "qingting",
+    "importBase": "",
+    "nativeBase": "",
+    "debug": true
+}

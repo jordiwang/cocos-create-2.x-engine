@@ -1,0 +1,40 @@
+{
+    "paths": {
+        "0802da4f-65f1-4179-8e89-f9310d239ad7": [
+            "fuyou",
+            "cc.Texture2D"
+        ],
+        "4f6e6fdc-0ada-4492-a456-c5294a2366e6": [
+            "fuyou",
+            "cc.Asset"
+        ],
+        "acb1b020-19d7-4e97-9165-8fc4f4cd3f25": [
+            "fuyou",
+            "sp.SkeletonData"
+        ],
+        "d62db37a-77cc-410d-9ca6-9911d25a6098": [
+            "fuyou",
+            "cc.SpriteFrame",
+            1
+        ],
+        "dad9532f-f1d5-4e87-baef-b80fb8887ad0": [
+            "fuyou",
+            "cc.Prefab"
+        ]
+    },
+    "uuids": [
+        "0802da4f-65f1-4179-8e89-f9310d239ad7",
+        "4f6e6fdc-0ada-4492-a456-c5294a2366e6",
+        "acb1b020-19d7-4e97-9165-8fc4f4cd3f25",
+        "d62db37a-77cc-410d-9ca6-9911d25a6098",
+        "dad9532f-f1d5-4e87-baef-b80fb8887ad0"
+    ],
+    "scenes": {},
+    "redirect": [],
+    "deps": [],
+    "packs": {},
+    "name": "fuyou",
+    "importBase": "",
+    "nativeBase": "",
+    "debug": true
+}

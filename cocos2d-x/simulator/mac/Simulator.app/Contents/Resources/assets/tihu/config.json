@@ -1,0 +1,40 @@
+{
+    "paths": {
+        "14b47fc8-d728-46c9-b338-eeadb8bc5887": [
+            "tihu",
+            "cc.Asset"
+        ],
+        "1927f518-179b-4289-a5f7-b06c945fcdac": [
+            "tihu",
+            "cc.Texture2D"
+        ],
+        "193c7ebf-ddb4-4f6b-8587-f3c47a0cfbe7": [
+            "tihu",
+            "cc.Prefab"
+        ],
+        "de0a7ae4-3078-4023-a352-ac1c4f13ffb1": [
+            "tihu",
+            "sp.SkeletonData"
+        ],
+        "fb1d653f-c1ac-4f79-88c3-39aea65656f4": [
+            "tihu",
+            "cc.SpriteFrame",
+            1
+        ]
+    },
+    "uuids": [
+        "14b47fc8-d728-46c9-b338-eeadb8bc5887",
+        "1927f518-179b-4289-a5f7-b06c945fcdac",
+        "193c7ebf-ddb4-4f6b-8587-f3c47a0cfbe7",
+        "de0a7ae4-3078-4023-a352-ac1c4f13ffb1",
+        "fb1d653f-c1ac-4f79-88c3-39aea65656f4"
+    ],
+    "scenes": {},
+    "redirect": [],
+    "deps": [],
+    "packs": {},
+    "name": "tihu",
+    "importBase": "",
+    "nativeBase": "",
+    "debug": true
+}

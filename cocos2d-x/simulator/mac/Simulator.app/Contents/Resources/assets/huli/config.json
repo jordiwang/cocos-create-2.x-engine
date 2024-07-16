@@ -1,0 +1,73 @@
+{
+    "paths": {
+        "1c28e1ea-5fa8-43c7-9fa0-86910a031816": [
+            "huli",
+            "cc.Prefab"
+        ],
+        "37a43542-1141-4e16-8e70-8ee926610217": [
+            "huli",
+            "sp.SkeletonData"
+        ],
+        "51fc4781-c6d9-4220-98f0-4613da983b3e": [
+            "huli",
+            "cc.Asset"
+        ],
+        "de3f8551-aa20-418d-8d15-61988fd5e525": [
+            "huli",
+            "cc.Texture2D"
+        ],
+        "f874027d-3215-4fe1-8cf7-82b73722bad1": [
+            "huli",
+            "cc.SpriteFrame",
+            1
+        ],
+        "26c9d4c5-fc60-41ff-99ce-6fc8195d2d7c": [
+            "huli2",
+            "cc.SpriteFrame",
+            1
+        ],
+        "359a8dc5-85a6-4599-ba26-fd436b6a4703": [
+            "huli2",
+            "cc.Texture2D"
+        ],
+        "0e02386d-2c96-4311-8fb6-de579d2a0c9a": [
+            "huli3",
+            "cc.Texture2D"
+        ],
+        "60e59d87-122a-428c-8123-1adc7ab758da": [
+            "huli3",
+            "cc.SpriteFrame",
+            1
+        ],
+        "684b2f19-aca2-4b78-9193-f49ad7078952": [
+            "huli4",
+            "cc.SpriteFrame",
+            1
+        ],
+        "ec2a985e-6427-4056-a336-6943c97a8c14": [
+            "huli4",
+            "cc.Texture2D"
+        ]
+    },
+    "uuids": [
+        "0e02386d-2c96-4311-8fb6-de579d2a0c9a",
+        "1c28e1ea-5fa8-43c7-9fa0-86910a031816",
+        "26c9d4c5-fc60-41ff-99ce-6fc8195d2d7c",
+        "359a8dc5-85a6-4599-ba26-fd436b6a4703",
+        "37a43542-1141-4e16-8e70-8ee926610217",
+        "51fc4781-c6d9-4220-98f0-4613da983b3e",
+        "60e59d87-122a-428c-8123-1adc7ab758da",
+        "684b2f19-aca2-4b78-9193-f49ad7078952",
+        "de3f8551-aa20-418d-8d15-61988fd5e525",
+        "ec2a985e-6427-4056-a336-6943c97a8c14",
+        "f874027d-3215-4fe1-8cf7-82b73722bad1"
+    ],
+    "scenes": {},
+    "redirect": [],
+    "deps": [],
+    "packs": {},
+    "name": "huli",
+    "importBase": "",
+    "nativeBase": "",
+    "debug": true
+}

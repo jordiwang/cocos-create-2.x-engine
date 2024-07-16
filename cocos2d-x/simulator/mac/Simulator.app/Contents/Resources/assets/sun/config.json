@@ -1,0 +1,73 @@
+{
+    "paths": {
+        "22c0528b-15f4-4424-bee3-b6c8e2122f60": [
+            "sun",
+            "cc.SpriteFrame",
+            1
+        ],
+        "39614f86-93eb-440d-baf7-f6ac2f128351": [
+            "sun",
+            "cc.Prefab"
+        ],
+        "56c27ec9-bb4b-4e30-a262-561006cd369d": [
+            "sun",
+            "cc.Asset"
+        ],
+        "65feea62-78be-408c-af8c-92a5223fae7f": [
+            "sun",
+            "sp.SkeletonData"
+        ],
+        "f6690029-edf0-4e89-bd06-795a6516f6c4": [
+            "sun",
+            "cc.Texture2D"
+        ],
+        "00bf47e7-e048-4a59-b5ab-de2c7559caf9": [
+            "sun2",
+            "cc.SpriteFrame",
+            1
+        ],
+        "71128c09-2c48-41cf-bcc4-75aba531b6db": [
+            "sun2",
+            "cc.Texture2D"
+        ],
+        "4f41bc59-5749-4a18-95f3-88154e964ce6": [
+            "sun3",
+            "cc.Texture2D"
+        ],
+        "99330358-83ae-4633-8e7d-b2ae6f302f6d": [
+            "sun3",
+            "cc.SpriteFrame",
+            1
+        ],
+        "8a77fb92-8fb3-4613-aeec-fe26c33a76cc": [
+            "sun4",
+            "cc.SpriteFrame",
+            1
+        ],
+        "d75b3634-6061-46ca-93b5-22db8187c3fe": [
+            "sun4",
+            "cc.Texture2D"
+        ]
+    },
+    "uuids": [
+        "00bf47e7-e048-4a59-b5ab-de2c7559caf9",
+        "22c0528b-15f4-4424-bee3-b6c8e2122f60",
+        "39614f86-93eb-440d-baf7-f6ac2f128351",
+        "4f41bc59-5749-4a18-95f3-88154e964ce6",
+        "56c27ec9-bb4b-4e30-a262-561006cd369d",
+        "65feea62-78be-408c-af8c-92a5223fae7f",
+        "71128c09-2c48-41cf-bcc4-75aba531b6db",
+        "8a77fb92-8fb3-4613-aeec-fe26c33a76cc",
+        "99330358-83ae-4633-8e7d-b2ae6f302f6d",
+        "d75b3634-6061-46ca-93b5-22db8187c3fe",
+        "f6690029-edf0-4e89-bd06-795a6516f6c4"
+    ],
+    "scenes": {},
+    "redirect": [],
+    "deps": [],
+    "packs": {},
+    "name": "sun",
+    "importBase": "",
+    "nativeBase": "",
+    "debug": true
+}

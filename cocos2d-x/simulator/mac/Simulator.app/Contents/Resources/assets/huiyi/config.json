@@ -1,0 +1,73 @@
+{
+    "paths": {
+        "00ca44fc-9af7-4759-bae9-4afe6fd65886": [
+            "huiyi",
+            "cc.Prefab"
+        ],
+        "10001531-cbb9-4ae9-b31d-bcd7dce18edf": [
+            "huiyi",
+            "cc.Texture2D"
+        ],
+        "39d25198-a8e7-47cc-9d4b-bd414fb51db5": [
+            "huiyi",
+            "sp.SkeletonData"
+        ],
+        "5e0a9ef4-9c3f-4ef4-8adb-d84c8f17ff4b": [
+            "huiyi",
+            "cc.SpriteFrame",
+            1
+        ],
+        "b42828b8-5111-4a3e-be9c-3f44694e9190": [
+            "huiyi",
+            "cc.Asset"
+        ],
+        "15a6b38b-1da6-435c-ac71-f29d1b7a028d": [
+            "huiyi2",
+            "cc.Texture2D"
+        ],
+        "50dc6137-1f0f-43d9-a6be-5773d4421619": [
+            "huiyi2",
+            "cc.SpriteFrame",
+            1
+        ],
+        "10e552e0-3970-42a3-b0a1-1889f8228743": [
+            "huiyi3",
+            "cc.Texture2D"
+        ],
+        "1e56119b-46fc-4da8-8ba5-c8b7a55f1b85": [
+            "huiyi3",
+            "cc.SpriteFrame",
+            1
+        ],
+        "663de802-f748-405b-9a7b-497cd0f9e3c6": [
+            "huiyi4",
+            "cc.Texture2D"
+        ],
+        "93173938-1685-4ee3-bd9e-c0f7276fd126": [
+            "huiyi4",
+            "cc.SpriteFrame",
+            1
+        ]
+    },
+    "uuids": [
+        "00ca44fc-9af7-4759-bae9-4afe6fd65886",
+        "10001531-cbb9-4ae9-b31d-bcd7dce18edf",
+        "10e552e0-3970-42a3-b0a1-1889f8228743",
+        "15a6b38b-1da6-435c-ac71-f29d1b7a028d",
+        "1e56119b-46fc-4da8-8ba5-c8b7a55f1b85",
+        "39d25198-a8e7-47cc-9d4b-bd414fb51db5",
+        "50dc6137-1f0f-43d9-a6be-5773d4421619",
+        "5e0a9ef4-9c3f-4ef4-8adb-d84c8f17ff4b",
+        "663de802-f748-405b-9a7b-497cd0f9e3c6",
+        "93173938-1685-4ee3-bd9e-c0f7276fd126",
+        "b42828b8-5111-4a3e-be9c-3f44694e9190"
+    ],
+    "scenes": {},
+    "redirect": [],
+    "deps": [],
+    "packs": {},
+    "name": "huiyi",
+    "importBase": "",
+    "nativeBase": "",
+    "debug": true
+}

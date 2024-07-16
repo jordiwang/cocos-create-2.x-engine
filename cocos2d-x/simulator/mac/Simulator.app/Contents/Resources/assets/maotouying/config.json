@@ -1,0 +1,62 @@
+{
+    "paths": {
+        "49def02a-38f8-4f6b-ac30-f4f319c8373b": [
+            "maotouying",
+            "cc.Texture2D"
+        ],
+        "507eaffa-bc81-4508-aa1c-c767ddd03ff4": [
+            "maotouying",
+            "cc.Prefab"
+        ],
+        "51bf0174-3dfa-4a6b-ade3-c81fdda1fc14": [
+            "maotouying",
+            "cc.SpriteFrame",
+            1
+        ],
+        "836682bc-24cb-449f-a2c8-2e63bd063b7a": [
+            "maotouying",
+            "sp.SkeletonData"
+        ],
+        "8d607c5d-601e-45e6-a30b-c9f238d6f1b0": [
+            "maotouying",
+            "cc.Asset"
+        ],
+        "8c09e30e-0dfc-4fb7-8a73-e700a43ed629": [
+            "maotouying2",
+            "cc.Texture2D"
+        ],
+        "fa1b7a49-8a99-45e5-aa96-8a7f93545c90": [
+            "maotouying2",
+            "cc.SpriteFrame",
+            1
+        ],
+        "582cb537-3b88-4652-a010-e3bed91f91f9": [
+            "maotouying3",
+            "cc.Texture2D"
+        ],
+        "93bc8a4b-ef06-4ea5-b365-d47b739d521c": [
+            "maotouying3",
+            "cc.SpriteFrame",
+            1
+        ]
+    },
+    "uuids": [
+        "49def02a-38f8-4f6b-ac30-f4f319c8373b",
+        "507eaffa-bc81-4508-aa1c-c767ddd03ff4",
+        "51bf0174-3dfa-4a6b-ade3-c81fdda1fc14",
+        "582cb537-3b88-4652-a010-e3bed91f91f9",
+        "836682bc-24cb-449f-a2c8-2e63bd063b7a",
+        "8c09e30e-0dfc-4fb7-8a73-e700a43ed629",
+        "8d607c5d-601e-45e6-a30b-c9f238d6f1b0",
+        "93bc8a4b-ef06-4ea5-b365-d47b739d521c",
+        "fa1b7a49-8a99-45e5-aa96-8a7f93545c90"
+    ],
+    "scenes": {},
+    "redirect": [],
+    "deps": [],
+    "packs": {},
+    "name": "maotouying",
+    "importBase": "",
+    "nativeBase": "",
+    "debug": true
+}

@@ -1,0 +1,84 @@
+{
+    "paths": {
+        "217b51bc-1ba1-4633-87bb-6847955ed6f3": [
+            "gaoshanyuanjing",
+            "sp.SkeletonData"
+        ],
+        "27b086d3-ad6c-4363-9081-f86d9c3e4abc": [
+            "gaoshanyuanjing",
+            "cc.Prefab"
+        ],
+        "55b113d3-7094-4072-9d9d-af515dce37ba": [
+            "gaoshanyuanjing",
+            "cc.Asset"
+        ],
+        "a2aef613-993b-4ed4-aa28-868dd11bfec5": [
+            "gaoshanyuanjing",
+            "cc.SpriteFrame",
+            1
+        ],
+        "e1e74270-f868-4fce-8b1b-1db8872f60d2": [
+            "gaoshanyuanjing",
+            "cc.Texture2D"
+        ],
+        "c4e4f364-1a7f-40d1-b80e-1de528d41ac8": [
+            "gaoshanyuanjing2",
+            "cc.SpriteFrame",
+            1
+        ],
+        "f8a99aef-dbbf-4bec-9a10-0c5eb42c6c2e": [
+            "gaoshanyuanjing2",
+            "cc.Texture2D"
+        ],
+        "5424fdec-c2e6-4b43-b014-196b387e436e": [
+            "gaoshanyuanjing3",
+            "cc.SpriteFrame",
+            1
+        ],
+        "9cb42c0d-902e-45d9-8582-30d80b8fb979": [
+            "gaoshanyuanjing3",
+            "cc.Texture2D"
+        ],
+        "88e11205-785f-49fb-8174-ca5121b60434": [
+            "gaoshanyuanjing4",
+            "cc.Texture2D"
+        ],
+        "d674d99b-5b56-4f2b-97ce-b2a7586a3bd1": [
+            "gaoshanyuanjing4",
+            "cc.SpriteFrame",
+            1
+        ],
+        "8e5ea2a7-2468-4c00-92ef-373fc951f1e9": [
+            "gaoshanyuanjing5",
+            "cc.Texture2D"
+        ],
+        "f1fe65fc-d1ed-42aa-9204-fa9c64e2891a": [
+            "gaoshanyuanjing5",
+            "cc.SpriteFrame",
+            1
+        ]
+    },
+    "uuids": [
+        "217b51bc-1ba1-4633-87bb-6847955ed6f3",
+        "27b086d3-ad6c-4363-9081-f86d9c3e4abc",
+        "5424fdec-c2e6-4b43-b014-196b387e436e",
+        "55b113d3-7094-4072-9d9d-af515dce37ba",
+        "88e11205-785f-49fb-8174-ca5121b60434",
+        "8e5ea2a7-2468-4c00-92ef-373fc951f1e9",
+        "9cb42c0d-902e-45d9-8582-30d80b8fb979",
+        "a2aef613-993b-4ed4-aa28-868dd11bfec5",
+        "c4e4f364-1a7f-40d1-b80e-1de528d41ac8",
+        "d674d99b-5b56-4f2b-97ce-b2a7586a3bd1",
+        "e1e74270-f868-4fce-8b1b-1db8872f60d2",
+        "f1fe65fc-d1ed-42aa-9204-fa9c64e2891a",
+        "f8a99aef-dbbf-4bec-9a10-0c5eb42c6c2e"
+    ],
+    "scenes": {},
+    "redirect": [],
+    "deps": [],
+    "packs": {},
+    "name": "gaoshanyuanjing",
+    "importBase": "",
+    "nativeBase": "",
+    "debug": true
+}

@@ -1,0 +1,62 @@
+{
+    "paths": {
+        "08d94615-e4ad-4d9d-9f90-8658850058ee": [
+            "diandaoshu",
+            "cc.Asset"
+        ],
+        "2c84e22a-af10-46c6-baa3-51a3eaa1697d": [
+            "diandaoshu",
+            "sp.SkeletonData"
+        ],
+        "450be955-c50f-4cc9-8d16-e0a8caa63e75": [
+            "diandaoshu",
+            "cc.SpriteFrame",
+            1
+        ],
+        "937c4891-c8d0-490a-ab48-d7b28502986b": [
+            "diandaoshu",
+            "cc.Texture2D"
+        ],
+        "b43fae19-5831-4531-9d81-a57812f9f0af": [
+            "diandaoshu",
+            "cc.Prefab"
+        ],
+        "371f03e1-b096-4dd8-9b09-e56b28bcbe09": [
+            "diandaoshu2",
+            "cc.SpriteFrame",
+            1
+        ],
+        "fb7dd309-ceed-44c6-8f54-e078555d6f52": [
+            "diandaoshu2",
+            "cc.Texture2D"
+        ],
+        "24d04f7a-0831-4b08-83bf-8cd0855da831": [
+            "diandaoshu3",
+            "cc.SpriteFrame",
+            1
+        ],
+        "b663c2eb-182b-4c2b-abfc-6fabd46933b3": [
+            "diandaoshu3",
+            "cc.Texture2D"
+        ]
+    },
+    "uuids": [
+        "08d94615-e4ad-4d9d-9f90-8658850058ee",
+        "24d04f7a-0831-4b08-83bf-8cd0855da831",
+        "2c84e22a-af10-46c6-baa3-51a3eaa1697d",
+        "371f03e1-b096-4dd8-9b09-e56b28bcbe09",
+        "450be955-c50f-4cc9-8d16-e0a8caa63e75",
+        "937c4891-c8d0-490a-ab48-d7b28502986b",
+        "b43fae19-5831-4531-9d81-a57812f9f0af",
+        "b663c2eb-182b-4c2b-abfc-6fabd46933b3",
+        "fb7dd309-ceed-44c6-8f54-e078555d6f52"
+    ],
+    "scenes": {},
+    "redirect": [],
+    "deps": [],
+    "packs": {},
+    "name": "diandaoshu",
+    "importBase": "",
+    "nativeBase": "",
+    "debug": true
+}

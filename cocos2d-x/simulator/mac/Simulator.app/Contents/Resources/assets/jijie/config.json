@@ -1,0 +1,95 @@
+{
+    "paths": {
+        "152b0f9b-1ccd-4826-bb4b-a98881e11ffb": [
+            "jijie",
+            "cc.Asset"
+        ],
+        "4e45a88d-7a04-459c-9122-854437e0e3a9": [
+            "jijie",
+            "cc.Texture2D"
+        ],
+        "5008513f-8684-4f62-975b-f0321d0345ea": [
+            "jijie",
+            "sp.SkeletonData"
+        ],
+        "7fc19052-4273-4d59-af3a-683791018723": [
+            "jijie",
+            "cc.Prefab"
+        ],
+        "ad266556-c381-4f6d-8ec4-fbdd25cdd7c0": [
+            "jijie",
+            "cc.SpriteFrame",
+            1
+        ],
+        "c22d4cf0-1afa-479c-9a15-78c41d29cafc": [
+            "jijie2",
+            "cc.SpriteFrame",
+            1
+        ],
+        "d28896ed-2bd2-4202-8286-362c129d3ad7": [
+            "jijie2",
+            "cc.Texture2D"
+        ],
+        "7e60e303-650e-43c0-9e20-5b7dc6948a9f": [
+            "jijie3",
+            "cc.Texture2D"
+        ],
+        "c21568fb-c84e-47e2-9713-1f28a5106bd6": [
+            "jijie3",
+            "cc.SpriteFrame",
+            1
+        ],
+        "2949c5ff-4b79-447e-a3ba-3213121055fb": [
+            "jijie4",
+            "cc.SpriteFrame",
+            1
+        ],
+        "332186c3-1142-4c3a-a2cb-d351055176f9": [
+            "jijie4",
+            "cc.Texture2D"
+        ],
+        "4e437e22-c383-4b16-8a0b-c8c4b3eaabae": [
+            "jijie5",
+            "cc.SpriteFrame",
+            1
+        ],
+        "7ea4f37a-deac-43ff-ba6a-37a810433d9f": [
+            "jijie5",
+            "cc.Texture2D"
+        ],
+        "05777437-7bba-45f2-8807-1d49e449c949": [
+            "jijie6",
+            "cc.SpriteFrame",
+            1
+        ],
+        "24f0b1ed-00c4-4d7f-bbe6-17600b0677d5": [
+            "jijie6",
+            "cc.Texture2D"
+        ]
+    },
+    "uuids": [
+        "05777437-7bba-45f2-8807-1d49e449c949",
+        "152b0f9b-1ccd-4826-bb4b-a98881e11ffb",
+        "24f0b1ed-00c4-4d7f-bbe6-17600b0677d5",
+        "2949c5ff-4b79-447e-a3ba-3213121055fb",
+        "332186c3-1142-4c3a-a2cb-d351055176f9",
+        "4e437e22-c383-4b16-8a0b-c8c4b3eaabae",
+        "4e45a88d-7a04-459c-9122-854437e0e3a9",
+        "5008513f-8684-4f62-975b-f0321d0345ea",
+        "7e60e303-650e-43c0-9e20-5b7dc6948a9f",
+        "7ea4f37a-deac-43ff-ba6a-37a810433d9f",
+        "7fc19052-4273-4d59-af3a-683791018723",
+        "ad266556-c381-4f6d-8ec4-fbdd25cdd7c0",
+        "c21568fb-c84e-47e2-9713-1f28a5106bd6",
+        "c22d4cf0-1afa-479c-9a15-78c41d29cafc",
+        "d28896ed-2bd2-4202-8286-362c129d3ad7"
+    ],
+    "scenes": {},
+    "redirect": [],
+    "deps": [],
+    "packs": {},
+    "name": "jijie",
+    "importBase": "",
+    "nativeBase": "",
+    "debug": true
+}

@@ -1,0 +1,62 @@
+{
+    "paths": {
+        "2b7ef967-093e-4600-ae27-3b8f932b41a8": [
+            "zhuiguang",
+            "cc.Prefab"
+        ],
+        "725addd1-7a79-4ed0-8dd3-4034847ed6ec": [
+            "zhuiguang",
+            "sp.SkeletonData"
+        ],
+        "87ca41ec-f5dd-4466-a0d8-8bd33fe38db1": [
+            "zhuiguang",
+            "cc.SpriteFrame",
+            1
+        ],
+        "ce20f375-e154-4f0b-a366-2aaa6f46eec9": [
+            "zhuiguang",
+            "cc.Texture2D"
+        ],
+        "efc198cd-c811-4acc-8cb0-a0bdb6330259": [
+            "zhuiguang",
+            "cc.Asset"
+        ],
+        "10315431-d8cb-4818-9b05-45c6297a9fc1": [
+            "zhuiguang2",
+            "cc.SpriteFrame",
+            1
+        ],
+        "ac79edcd-59e1-477f-b3ed-2be9ac48f233": [
+            "zhuiguang2",
+            "cc.Texture2D"
+        ],
+        "44351bda-d096-42d2-b192-d5d6ca35609c": [
+            "zhuiguang3",
+            "cc.Texture2D"
+        ],
+        "76a5b469-116e-4483-bef4-7222465f6ad6": [
+            "zhuiguang3",
+            "cc.SpriteFrame",
+            1
+        ]
+    },
+    "uuids": [
+        "10315431-d8cb-4818-9b05-45c6297a9fc1",
+        "2b7ef967-093e-4600-ae27-3b8f932b41a8",
+        "44351bda-d096-42d2-b192-d5d6ca35609c",
+        "725addd1-7a79-4ed0-8dd3-4034847ed6ec",
+        "76a5b469-116e-4483-bef4-7222465f6ad6",
+        "87ca41ec-f5dd-4466-a0d8-8bd33fe38db1",
+        "ac79edcd-59e1-477f-b3ed-2be9ac48f233",
+        "ce20f375-e154-4f0b-a366-2aaa6f46eec9",
+        "efc198cd-c811-4acc-8cb0-a0bdb6330259"
+    ],
+    "scenes": {},
+    "redirect": [],
+    "deps": [],
+    "packs": {},
+    "name": "zhuiguang",
+    "importBase": "",
+    "nativeBase": "",
+    "debug": true
+}

@@ -1,0 +1,73 @@
+{
+    "paths": {
+        "1cbc1d4c-1786-4c2d-86d6-3c2b7d65430e": [
+            "fengniao",
+            "cc.SpriteFrame",
+            1
+        ],
+        "6789a510-6659-4ba1-878c-942fddc208a7": [
+            "fengniao",
+            "cc.Prefab"
+        ],
+        "bbdb7b30-121e-457a-a9f8-531df373d45d": [
+            "fengniao",
+            "cc.Asset"
+        ],
+        "c9c35897-988b-491c-9a0a-8687e3c41a6c": [
+            "fengniao",
+            "cc.Texture2D"
+        ],
+        "ffd73dcf-7db5-4735-be52-be71cbd56095": [
+            "fengniao",
+            "sp.SkeletonData"
+        ],
+        "062da7b3-c6d7-4255-b55c-6e0760f6a847": [
+            "fengniao2",
+            "cc.SpriteFrame",
+            1
+        ],
+        "e501d0b9-21bc-4427-b044-9f1da78d9615": [
+            "fengniao2",
+            "cc.Texture2D"
+        ],
+        "11767b26-dfcd-4940-a2d2-b53237f2f03e": [
+            "fengniao3",
+            "cc.SpriteFrame",
+            1
+        ],
+        "76f6e3fe-6465-4b53-9c7d-695d74375525": [
+            "fengniao3",
+            "cc.Texture2D"
+        ],
+        "7495a063-1195-4ae3-af67-a12e31a63221": [
+            "fengniao4",
+            "cc.Texture2D"
+        ],
+        "a58c3be1-3837-47ce-a47f-b489eaf962a2": [
+            "fengniao4",
+            "cc.SpriteFrame",
+            1
+        ]
+    },
+    "uuids": [
+        "062da7b3-c6d7-4255-b55c-6e0760f6a847",
+        "11767b26-dfcd-4940-a2d2-b53237f2f03e",
+        "1cbc1d4c-1786-4c2d-86d6-3c2b7d65430e",
+        "6789a510-6659-4ba1-878c-942fddc208a7",
+        "7495a063-1195-4ae3-af67-a12e31a63221",
+        "76f6e3fe-6465-4b53-9c7d-695d74375525",
+        "a58c3be1-3837-47ce-a47f-b489eaf962a2",
+        "bbdb7b30-121e-457a-a9f8-531df373d45d",
+        "c9c35897-988b-491c-9a0a-8687e3c41a6c",
+        "e501d0b9-21bc-4427-b044-9f1da78d9615",
+        "ffd73dcf-7db5-4735-be52-be71cbd56095"
+    ],
+    "scenes": {},
+    "redirect": [],
+    "deps": [],
+    "packs": {},
+    "name": "fengniao",
+    "importBase": "",
+    "nativeBase": "",
+    "debug": true
+}

@@ -1,0 +1,51 @@
+{
+    "paths": {
+        "6b117ed8-f81d-4dd8-bb7b-48e97c2c8f94": [
+            "xingxing",
+            "cc.Texture2D"
+        ],
+        "8325b38a-bcab-4f5b-8a32-28a49061aad6": [
+            "xingxing",
+            "cc.Prefab"
+        ],
+        "944aca9d-89d8-4fcd-bfdc-7df7096023b9": [
+            "xingxing",
+            "sp.SkeletonData"
+        ],
+        "b6965126-aba0-434d-91d3-4c105e4a9411": [
+            "xingxing",
+            "cc.SpriteFrame",
+            1
+        ],
+        "b69ce242-608e-4295-888d-2a0b5ef5dd15": [
+            "xingxing",
+            "cc.Asset"
+        ],
+        "32a9925e-2559-4547-8d06-177af362e5a4": [
+            "xingxing2",
+            "cc.SpriteFrame",
+            1
+        ],
+        "50e64087-ce8f-4c50-b5f9-c91db556b8b1": [
+            "xingxing2",
+            "cc.Texture2D"
+        ]
+    },
+    "uuids": [
+        "32a9925e-2559-4547-8d06-177af362e5a4",
+        "50e64087-ce8f-4c50-b5f9-c91db556b8b1",
+        "6b117ed8-f81d-4dd8-bb7b-48e97c2c8f94",
+        "8325b38a-bcab-4f5b-8a32-28a49061aad6",
+        "944aca9d-89d8-4fcd-bfdc-7df7096023b9",
+        "b6965126-aba0-434d-91d3-4c105e4a9411",
+        "b69ce242-608e-4295-888d-2a0b5ef5dd15"
+    ],
+    "scenes": {},
+    "redirect": [],
+    "deps": [],
+    "packs": {},
+    "name": "xingxing",
+    "importBase": "",
+    "nativeBase": "",
+    "debug": true
+}

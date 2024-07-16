@@ -1,0 +1,62 @@
+{
+    "paths": {
+        "0f17a1e3-b754-4e3a-93a0-94b2f9ba60ba": [
+            "lvmen",
+            "cc.Prefab"
+        ],
+        "6e76c471-d373-413d-b0d7-569335c8a8e8": [
+            "lvmen",
+            "cc.Asset"
+        ],
+        "6e7e5bc2-bbc0-4b15-8b83-94f523dc1268": [
+            "lvmen",
+            "cc.SpriteFrame",
+            1
+        ],
+        "c55e7161-172a-46e0-9d7d-49ccf1cfed52": [
+            "lvmen",
+            "cc.Texture2D"
+        ],
+        "f535c262-db69-4c1d-89eb-8831317e4b52": [
+            "lvmen",
+            "sp.SkeletonData"
+        ],
+        "c60bfa8a-2aea-4407-8ea3-c828875483af": [
+            "lvmen2",
+            "cc.SpriteFrame",
+            1
+        ],
+        "e2c4f116-c48a-4885-8f96-acf923303a6e": [
+            "lvmen2",
+            "cc.Texture2D"
+        ],
+        "0e11a201-4daa-4fe2-868e-021301fc433a": [
+            "lvmen3",
+            "cc.SpriteFrame",
+            1
+        ],
+        "7c1204c0-5f39-4e85-88ae-dabbb6d29315": [
+            "lvmen3",
+            "cc.Texture2D"
+        ]
+    },
+    "uuids": [
+        "0e11a201-4daa-4fe2-868e-021301fc433a",
+        "0f17a1e3-b754-4e3a-93a0-94b2f9ba60ba",
+        "6e76c471-d373-413d-b0d7-569335c8a8e8",
+        "6e7e5bc2-bbc0-4b15-8b83-94f523dc1268",
+        "7c1204c0-5f39-4e85-88ae-dabbb6d29315",
+        "c55e7161-172a-46e0-9d7d-49ccf1cfed52",
+        "c60bfa8a-2aea-4407-8ea3-c828875483af",
+        "e2c4f116-c48a-4885-8f96-acf923303a6e",
+        "f535c262-db69-4c1d-89eb-8831317e4b52"
+    ],
+    "scenes": {},
+    "redirect": [],
+    "deps": [],
+    "packs": {},
+    "name": "lvmen",
+    "importBase": "",
+    "nativeBase": "",
+    "debug": true
+}

@@ -1,0 +1,40 @@
+{
+    "paths": {
+        "2cf36f2c-534f-43dd-854c-9ef0c256025f": [
+            "xiaoxiongmao",
+            "sp.SkeletonData"
+        ],
+        "c62aede6-714c-48b7-adba-f4a9057b11c0": [
+            "xiaoxiongmao",
+            "cc.SpriteFrame",
+            1
+        ],
+        "c79b353c-06fe-4651-b803-c5148f71e695": [
+            "xiaoxiongmao",
+            "cc.Asset"
+        ],
+        "cea78ef9-1723-4686-8767-cc2d5610ab6c": [
+            "xiaoxiongmao",
+            "cc.Texture2D"
+        ],
+        "db022a60-d57b-4c84-8169-c9ba8c1de757": [
+            "xiaoxiongmao",
+            "cc.Prefab"
+        ]
+    },
+    "uuids": [
+        "2cf36f2c-534f-43dd-854c-9ef0c256025f",
+        "c62aede6-714c-48b7-adba-f4a9057b11c0",
+        "c79b353c-06fe-4651-b803-c5148f71e695",
+        "cea78ef9-1723-4686-8767-cc2d5610ab6c",
+        "db022a60-d57b-4c84-8169-c9ba8c1de757"
+    ],
+    "scenes": {},
+    "redirect": [],
+    "deps": [],
+    "packs": {},
+    "name": "xiaoxiongmao",
+    "importBase": "",
+    "nativeBase": "",
+    "debug": true
+}

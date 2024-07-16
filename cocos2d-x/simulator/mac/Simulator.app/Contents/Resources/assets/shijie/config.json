@@ -1,0 +1,51 @@
+{
+    "paths": {
+        "07e8012c-33e2-4948-9d42-7f90ea81cbf2": [
+            "shijie",
+            "cc.Prefab"
+        ],
+        "0e13c02e-7c8d-453b-80d4-30b9fc2ea302": [
+            "shijie",
+            "cc.SpriteFrame",
+            1
+        ],
+        "0eb904d2-9583-4361-9ce1-b4c0f568d4c8": [
+            "shijie",
+            "cc.Texture2D"
+        ],
+        "22f21d2b-13d1-43e5-b60d-5dcb46f63b42": [
+            "shijie",
+            "sp.SkeletonData"
+        ],
+        "83936d90-43e7-46d9-8033-5e536f346541": [
+            "shijie",
+            "cc.Asset"
+        ],
+        "03ee5546-76c1-4f85-b488-655af65a9971": [
+            "shijie2",
+            "cc.Texture2D"
+        ],
+        "3539116c-0339-40e0-80cf-c8228d24d38e": [
+            "shijie2",
+            "cc.SpriteFrame",
+            1
+        ]
+    },
+    "uuids": [
+        "03ee5546-76c1-4f85-b488-655af65a9971",
+        "07e8012c-33e2-4948-9d42-7f90ea81cbf2",
+        "0e13c02e-7c8d-453b-80d4-30b9fc2ea302",
+        "0eb904d2-9583-4361-9ce1-b4c0f568d4c8",
+        "22f21d2b-13d1-43e5-b60d-5dcb46f63b42",
+        "3539116c-0339-40e0-80cf-c8228d24d38e",
+        "83936d90-43e7-46d9-8033-5e536f346541"
+    ],
+    "scenes": {},
+    "redirect": [],
+    "deps": [],
+    "packs": {},
+    "name": "shijie",
+    "importBase": "",
+    "nativeBase": "",
+    "debug": true
+}

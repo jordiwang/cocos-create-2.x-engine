@@ -1,0 +1,84 @@
+{
+    "paths": {
+        "515581d2-8fc2-45a2-8281-56699ee1839f": [
+            "tree",
+            "cc.SpriteFrame",
+            1
+        ],
+        "9a83eeb4-f4fe-4997-b744-b14eb11ce357": [
+            "tree",
+            "cc.Prefab"
+        ],
+        "a224e975-44d7-469f-b629-f5dcb0402287": [
+            "tree",
+            "cc.Texture2D"
+        ],
+        "b89826a6-ac27-4d7d-b7a1-480ecaf33cd5": [
+            "tree",
+            "sp.SkeletonData"
+        ],
+        "f7385196-4d62-4c5b-9d64-02ca7481aba8": [
+            "tree",
+            "cc.Asset"
+        ],
+        "1e77adf4-e77e-49da-8786-a5f0f6521dc4": [
+            "tree2",
+            "cc.SpriteFrame",
+            1
+        ],
+        "97e3d07d-5342-4768-b8b6-6505f53e4935": [
+            "tree2",
+            "cc.Texture2D"
+        ],
+        "09db3ed4-1592-4ac3-a98e-995dfccd1a48": [
+            "tree3",
+            "cc.Texture2D"
+        ],
+        "b033fdd4-50f9-4a67-9f12-5377dce0a0b7": [
+            "tree3",
+            "cc.SpriteFrame",
+            1
+        ],
+        "74396a47-6ff2-4942-9627-8b238ee90299": [
+            "tree4",
+            "cc.SpriteFrame",
+            1
+        ],
+        "ebbb417f-4070-4b82-b066-58a511108f6a": [
+            "tree4",
+            "cc.Texture2D"
+        ],
+        "4976a230-14cd-42c5-aa24-3fbc9fca9fab": [
+            "tree5",
+            "cc.Texture2D"
+        ],
+        "ac5ec512-ee11-4b2b-8929-d511c33b9a74": [
+            "tree5",
+            "cc.SpriteFrame",
+            1
+        ]
+    },
+    "uuids": [
+        "09db3ed4-1592-4ac3-a98e-995dfccd1a48",
+        "1e77adf4-e77e-49da-8786-a5f0f6521dc4",
+        "4976a230-14cd-42c5-aa24-3fbc9fca9fab",
+        "515581d2-8fc2-45a2-8281-56699ee1839f",
+        "74396a47-6ff2-4942-9627-8b238ee90299",
+        "97e3d07d-5342-4768-b8b6-6505f53e4935",
+        "9a83eeb4-f4fe-4997-b744-b14eb11ce357",
+        "a224e975-44d7-469f-b629-f5dcb0402287",
+        "ac5ec512-ee11-4b2b-8929-d511c33b9a74",
+        "b033fdd4-50f9-4a67-9f12-5377dce0a0b7",
+        "b89826a6-ac27-4d7d-b7a1-480ecaf33cd5",
+        "ebbb417f-4070-4b82-b066-58a511108f6a",
+        "f7385196-4d62-4c5b-9d64-02ca7481aba8"
+    ],
+    "scenes": {},
+    "redirect": [],
+    "deps": [],
+    "packs": {},
+    "name": "tree",
+    "importBase": "",
+    "nativeBase": "",
+    "debug": true
+}

@@ -1,0 +1,62 @@
+{
+    "paths": {
+        "091f89ad-b999-4206-8d8b-8ec76650e6be": [
+            "yuezhongniao",
+            "cc.SpriteFrame",
+            1
+        ],
+        "214c2d75-de6c-461e-92e5-2f821c09c3c8": [
+            "yuezhongniao",
+            "cc.Texture2D"
+        ],
+        "3181c8ac-b7b8-4f33-b7bb-8a43db0f5cd4": [
+            "yuezhongniao",
+            "cc.Prefab"
+        ],
+        "9115eb92-8381-4c5d-ab64-3e194388c923": [
+            "yuezhongniao",
+            "sp.SkeletonData"
+        ],
+        "91974e0a-3d5f-46e7-8595-1bf6805e108c": [
+            "yuezhongniao",
+            "cc.Asset"
+        ],
+        "35658336-983a-49df-a0ec-83325afe58b7": [
+            "yuezhongniao2",
+            "cc.SpriteFrame",
+            1
+        ],
+        "a04ca6ff-3967-4384-8e2c-f0635e5509fa": [
+            "yuezhongniao2",
+            "cc.Texture2D"
+        ],
+        "0394aff8-7ce0-4a08-be2a-80d37fd5945c": [
+            "yuezhongniao3",
+            "cc.SpriteFrame",
+            1
+        ],
+        "b151f418-bd9c-4dc2-b258-7915780fa59e": [
+            "yuezhongniao3",
+            "cc.Texture2D"
+        ]
+    },
+    "uuids": [
+        "0394aff8-7ce0-4a08-be2a-80d37fd5945c",
+        "091f89ad-b999-4206-8d8b-8ec76650e6be",
+        "214c2d75-de6c-461e-92e5-2f821c09c3c8",
+        "3181c8ac-b7b8-4f33-b7bb-8a43db0f5cd4",
+        "35658336-983a-49df-a0ec-83325afe58b7",
+        "9115eb92-8381-4c5d-ab64-3e194388c923",
+        "91974e0a-3d5f-46e7-8595-1bf6805e108c",
+        "a04ca6ff-3967-4384-8e2c-f0635e5509fa",
+        "b151f418-bd9c-4dc2-b258-7915780fa59e"
+    ],
+    "scenes": {},
+    "redirect": [],
+    "deps": [],
+    "packs": {},
+    "name": "yuezhongniao",
+    "importBase": "",
+    "nativeBase": "",
+    "debug": true
+}

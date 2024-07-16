@@ -1,0 +1,73 @@
+{
+    "paths": {
+        "4d21e1d1-c99c-4a37-b2d9-6b223ede5656": [
+            "kumuyunenya",
+            "cc.Asset"
+        ],
+        "7201e247-ed58-4249-9c10-8c186cc158de": [
+            "kumuyunenya",
+            "cc.Prefab"
+        ],
+        "ac2b55e9-c889-4e0b-b50d-a0c677d3af06": [
+            "kumuyunenya",
+            "sp.SkeletonData"
+        ],
+        "b1cb65a1-662e-42b4-8446-008b6825c227": [
+            "kumuyunenya",
+            "cc.Texture2D"
+        ],
+        "cd2ccfc5-4677-450e-843c-7b96ec64d04b": [
+            "kumuyunenya",
+            "cc.SpriteFrame",
+            1
+        ],
+        "108202e0-1874-4a07-8add-ad6258732534": [
+            "kumuyunenya2",
+            "cc.SpriteFrame",
+            1
+        ],
+        "71d8e80e-ca18-4760-8b22-c52bfef30ec6": [
+            "kumuyunenya2",
+            "cc.Texture2D"
+        ],
+        "8cf41b36-4372-4f43-9285-88da2090031c": [
+            "kumuyunenya3",
+            "cc.Texture2D"
+        ],
+        "de8ce799-17dd-4c6d-9da1-2c9b7e2401db": [
+            "kumuyunenya3",
+            "cc.SpriteFrame",
+            1
+        ],
+        "392bbb0d-e07c-4333-a984-8c4c4208880c": [
+            "kumuyunenya4",
+            "cc.Texture2D"
+        ],
+        "f47484cd-c368-4525-9370-0ce48e964459": [
+            "kumuyunenya4",
+            "cc.SpriteFrame",
+            1
+        ]
+    },
+    "uuids": [
+        "108202e0-1874-4a07-8add-ad6258732534",
+        "392bbb0d-e07c-4333-a984-8c4c4208880c",
+        "4d21e1d1-c99c-4a37-b2d9-6b223ede5656",
+        "71d8e80e-ca18-4760-8b22-c52bfef30ec6",
+        "7201e247-ed58-4249-9c10-8c186cc158de",
+        "8cf41b36-4372-4f43-9285-88da2090031c",
+        "ac2b55e9-c889-4e0b-b50d-a0c677d3af06",
+        "b1cb65a1-662e-42b4-8446-008b6825c227",
+        "cd2ccfc5-4677-450e-843c-7b96ec64d04b",
+        "de8ce799-17dd-4c6d-9da1-2c9b7e2401db",
+        "f47484cd-c368-4525-9370-0ce48e964459"
+    ],
+    "scenes": {},
+    "redirect": [],
+    "deps": [],
+    "packs": {},
+    "name": "kumuyunenya",
+    "importBase": "",
+    "nativeBase": "",
+    "debug": true
+}

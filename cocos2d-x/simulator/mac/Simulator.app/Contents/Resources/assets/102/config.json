@@ -1,0 +1,836 @@
+{
+    "paths": {
+        "f2a99652-a567-4d8b-a2d2-7afd9857f17c": [
+            "audios/zen__commonBgm_bpm120_4.0bc",
+            "cc.AudioClip"
+        ],
+        "eedcab88-266c-4451-aa42-4ed3baa2a070": [
+            "audios/zen_commonBgm_bpm120_1.1a",
+            "cc.AudioClip"
+        ],
+        "f2043d60-5617-401e-818e-6203d19a2b22": [
+            "audios/zen_commonBgm_bpm120_1.1bc",
+            "cc.AudioClip"
+        ],
+        "8f35cb3a-1b04-4494-bb2f-7a72592d58f3": [
+            "audios/zen_commonBgm_bpm120_2.0a",
+            "cc.AudioClip"
+        ],
+        "a0242278-2c8f-4420-89ec-af7685bd89b3": [
+            "audios/zen_commonBgm_bpm120_2.0bc",
+            "cc.AudioClip"
+        ],
+        "3d517820-4dca-4157-a443-92d8cabe14cc": [
+            "configs/LevelAdjust2",
+            "cc.JsonAsset"
+        ],
+        "ac42b4a3-d527-4b1c-9591-580dea02b776": [
+            "configs/LevelConfig1",
+            "cc.JsonAsset"
+        ],
+        "3ed3e217-1ca4-432f-9ba1-0ce93212589c": [
+            "configs/LevelConfig2",
+            "cc.JsonAsset"
+        ],
+        "77af0b7e-544e-4e0e-812e-3191b180f59b": [
+            "configs/LevelConfig3",
+            "cc.JsonAsset"
+        ],
+        "f1300bd9-4fd3-4782-9130-fd7470bd9a97": [
+            "configs/LevelConfig4",
+            "cc.JsonAsset"
+        ],
+        "da9d19f2-1c62-4f87-902d-f77e96e52ebd": [
+            "configs/LevelConfig5",
+            "cc.JsonAsset"
+        ],
+        "e44f74b5-cbe0-4f1b-b189-99994f714f88": [
+            "configs/LevelConfig6",
+            "cc.JsonAsset"
+        ],
+        "a8ba797a-9db3-413c-a3e5-7ddb594731d9": [
+            "configs/plan1/AnimationConfig",
+            "cc.BufferAsset"
+        ],
+        "9aad48d6-1abe-4f7d-837e-8f83da796952": [
+            "configs/plan1/AudioConfig",
+            "cc.BufferAsset"
+        ],
+        "8018bbf6-ff1a-43fb-8d86-c53cfe975172": [
+            "configs/plan1/FontConfig",
+            "cc.BufferAsset"
+        ],
+        "ae5dbe09-cd6d-4e18-b254-6a15152a9f70": [
+            "configs/plan1/LevelItemConfig",
+            "cc.BufferAsset"
+        ],
+        "9caaf023-e8fc-4200-99f9-f74af2048540": [
+            "configs/plan1/MapConfig",
+            "cc.BufferAsset"
+        ],
+        "739b46e8-038a-4480-9eca-44d3a7cee706": [
+            "images/journey_paint_mask_branches",
+            "cc.SpriteFrame",
+            1
+        ],
+        "d3ac42c7-5d7d-4207-b26a-d0dc89da0ac9": [
+            "images/journey_paint_mask_branches",
+            "cc.Texture2D"
+        ],
+        "0963415c-cbe0-465e-a383-58dbb9e4444d": [
+            "images/journey_paint_mask_distance",
+            "cc.SpriteFrame",
+            1
+        ],
+        "0fccaf79-ade0-4856-9bd5-d6232112bfc8": [
+            "images/journey_paint_mask_distance",
+            "cc.Texture2D"
+        ],
+        "79d13753-c7f5-4f60-b14d-344e035ea713": [
+            "images/journey_paint_mask_earth",
+            "cc.SpriteFrame",
+            1
+        ],
+        "eb34de7c-72a8-464e-b88a-5ea6bde3462b": [
+            "images/journey_paint_mask_earth",
+            "cc.Texture2D"
+        ],
+        "8849b6b8-2273-45e9-a36b-cac0708877b9": [
+            "images/journey_paint_mask_fill",
+            "cc.SpriteFrame",
+            1
+        ],
+        "c50cf177-63d9-4978-8935-bf50ac99c55b": [
+            "images/journey_paint_mask_fill",
+            "cc.Texture2D"
+        ],
+        "25c3cefe-88c4-4509-b1a9-6efbde8ca676": [
+            "images/journey_paint_mask_flowerandfruit",
+            "cc.Texture2D"
+        ],
+        "a65d9633-0d65-49e5-bd32-6da74e9f6bb2": [
+            "images/journey_paint_mask_flowerandfruit",
+            "cc.SpriteFrame",
+            1
+        ],
+        "39e24e01-8672-4c0e-a274-ab2807afb43c": [
+            "images/journey_paint_mask_fullness",
+            "cc.SpriteFrame",
+            1
+        ],
+        "feb24d08-1be0-4a70-b36f-7496c00b3206": [
+            "images/journey_paint_mask_fullness",
+            "cc.Texture2D"
+        ],
+        "12fd4516-8c96-4118-a194-8066a565a276": [
+            "images/journey_paint_mask_grassblade",
+            "cc.SpriteFrame",
+            1
+        ],
+        "d16d3650-803e-423d-b24f-d892b0423645": [
+            "images/journey_paint_mask_grassblade",
+            "cc.Texture2D"
+        ],
+        "6e71a523-7ea7-480d-846e-3f9bf83c24ae": [
+            "images/journey_paint_mask_heartoflight",
+            "cc.Texture2D"
+        ],
+        "ab527ad9-06fe-4b7e-b67d-f3c11fce3556": [
+            "images/journey_paint_mask_heartoflight",
+            "cc.SpriteFrame",
+            1
+        ],
+        "46b18ed7-bbd7-4dfa-9649-2f9d6e5c619b": [
+            "images/journey_paint_mask_ladder",
+            "cc.SpriteFrame",
+            1
+        ],
+        "8f8c6489-ec35-447c-a426-b8721ae9dfe5": [
+            "images/journey_paint_mask_ladder",
+            "cc.Texture2D"
+        ],
+        "6bed75a5-e9ec-48b7-9df4-cfc6ebadca27": [
+            "images/journey_paint_mask_loneliness",
+            "cc.Texture2D"
+        ],
+        "c2d6909d-8def-4ddd-9b5f-d659d2a1349c": [
+            "images/journey_paint_mask_loneliness",
+            "cc.SpriteFrame",
+            1
+        ],
+        "d76d5f05-0a75-47a3-8737-8898a972c9b4": [
+            "images/journey_paint_mask_memory",
+            "cc.SpriteFrame",
+            1
+        ],
+        "e41d0479-2b40-49e7-b31e-5b4773ae0d25": [
+            "images/journey_paint_mask_memory",
+            "cc.Texture2D"
+        ],
+        "12b33f66-5c73-47a3-ab6b-cc5ad9a80c38": [
+            "images/journey_paint_mask_namelessdays",
+            "cc.Texture2D"
+        ],
+        "9b677ee8-4977-41d4-89ac-75e42823b27a": [
+            "images/journey_paint_mask_namelessdays",
+            "cc.SpriteFrame",
+            1
+        ],
+        "7b08fef1-6bee-448a-91ce-2d0ff314ac17": [
+            "images/journey_paint_mask_reed",
+            "cc.SpriteFrame",
+            1
+        ],
+        "bfe4124b-e91b-48a4-b23f-0a2b7d90f128": [
+            "images/journey_paint_mask_reed",
+            "cc.Texture2D"
+        ],
+        "168f0b24-7b29-402d-8e56-36197dcf64aa": [
+            "images/journey_paint_mask_seaofshouts",
+            "cc.Texture2D"
+        ],
+        "9b203931-5a02-4daa-b884-bacaf6941441": [
+            "images/journey_paint_mask_seaofshouts",
+            "cc.SpriteFrame",
+            1
+        ],
+        "95507931-dd43-4482-91ad-e204a5bde637": [
+            "images/journey_paint_mask_season2",
+            "cc.SpriteFrame",
+            1
+        ],
+        "bed620e6-a6c5-4a0e-bbca-1411ce0d7b79": [
+            "images/journey_paint_mask_season2",
+            "cc.Texture2D"
+        ],
+        "2ab4f5e0-768d-4e3d-a27d-7c4eec7d01db": [
+            "images/journey_paint_mask_stars",
+            "cc.Texture2D"
+        ],
+        "97f34b6a-631f-406a-88f9-80ce9ef95205": [
+            "images/journey_paint_mask_stars",
+            "cc.SpriteFrame",
+            1
+        ],
+        "19cdd99c-21fe-4f6b-9525-b3e8f0a93fb5": [
+            "images/journey_paint_mask_tree",
+            "cc.SpriteFrame",
+            1
+        ],
+        "6b8ce057-9d58-453b-86bf-5a5dc9eae547": [
+            "images/journey_paint_mask_tree",
+            "cc.Texture2D"
+        ],
+        "368f4aa1-95aa-42ac-9a87-2c3cca469edc": [
+            "images/journey_paint_mask_trees",
+            "cc.SpriteFrame",
+            1
+        ],
+        "6bed7009-ccd9-417f-a8d9-830336c5cb41": [
+            "images/journey_paint_mask_trees",
+            "cc.Texture2D"
+        ],
+        "2b8a254f-9992-4601-b9a4-e55a0e5dbdb7": [
+            "images/journey_paint_mask_waterfall",
+            "cc.Texture2D"
+        ],
+        "c95c245b-bbb2-4440-a0a3-67ff4c52c7af": [
+            "images/journey_paint_mask_waterfall",
+            "cc.SpriteFrame",
+            1
+        ],
+        "0207d1a2-3102-4d7d-8c7f-5aaf9b005389": [
+            "images/journey_paint_mask_whisper",
+            "cc.SpriteFrame",
+            1
+        ],
+        "f39c1e79-2e86-4184-af39-6e36dd10ff59": [
+            "images/journey_paint_mask_whisper",
+            "cc.Texture2D"
+        ],
+        "4efdb854-a4d4-4f48-ba85-78a10e590ed7": [
+            "images/journey_paint_mask_zen",
+            "cc.SpriteFrame",
+            1
+        ],
+        "61ebaa1f-b255-48d3-bfbd-2112fc7501ea": [
+            "images/journey_paint_mask_zen",
+            "cc.Texture2D"
+        ],
+        "9bce6154-0d75-47fb-bc8b-543b3898ae30": [
+            "images/level/journey_paint_fuyou",
+            "cc.Texture2D"
+        ],
+        "ccc8e3cf-880b-4270-9ca1-beaf3b4d568d": [
+            "images/level/journey_paint_fuyou",
+            "cc.SpriteFrame",
+            1
+        ],
+        "2a5aba3f-3e32-401e-840d-cc6769dfd36c": [
+            "images/level/journey_paint_hehua",
+            "cc.Texture2D"
+        ],
+        "8f71a1b5-ed14-4d7f-92f4-b407ad4f2467": [
+            "images/level/journey_paint_hehua",
+            "cc.SpriteFrame",
+            1
+        ],
+        "b90c4794-b939-4faa-9baa-ceeb4cb7a0f2": [
+            "images/level/journey_paint_sun",
+            "cc.Texture2D"
+        ],
+        "bf44fbe9-a25a-4cb8-a078-644ad7eaa830": [
+            "images/level/journey_paint_sun",
+            "cc.SpriteFrame",
+            1
+        ],
+        "34ce807e-487f-4bd4-ae8c-31a5698b4fce": [
+            "images/level/journey_paint_tree",
+            "cc.SpriteFrame",
+            1
+        ],
+        "e368f104-f3ed-46df-8f02-8080da2bbbca": [
+            "images/level/journey_paint_tree",
+            "cc.Texture2D"
+        ],
+        "200c7e38-7312-4ced-b168-882913fcda40": [
+            "images/level/journey_paint_woniu",
+            "cc.SpriteFrame",
+            1
+        ],
+        "feb0a505-b8f7-42a9-8491-aa164026a78a": [
+            "images/level/journey_paint_woniu",
+            "cc.Texture2D"
+        ],
+        "3de06379-b792-4a19-ad63-a000ec6af517": [
+            "images/level/journey_paint_yongge",
+            "cc.SpriteFrame",
+            1
+        ],
+        "ac6d1d78-a670-45af-97cd-304362e9e805": [
+            "images/level/journey_paint_yongge",
+            "cc.Texture2D"
+        ],
+        "2b3969ca-ebb0-483a-85d3-326125f39885": [
+            "pictures/picture_banjiu_0",
+            "cc.SpriteFrame",
+            1
+        ],
+        "c76964e8-9161-42c9-a0e5-d9f8a4eff8f5": [
+            "pictures/picture_banjiu_0",
+            "cc.Texture2D"
+        ],
+        "22aa15d7-3825-4969-95d9-1b93c2c1f21e": [
+            "pictures/picture_banjiu_idle",
+            "cc.SpriteFrame",
+            1
+        ],
+        "7f23aae0-5473-44cc-a215-1c46a1a159d0": [
+            "pictures/picture_banjiu_idle",
+            "cc.Texture2D"
+        ],
+        "7190b2e2-31b1-4e61-ae48-4747c732a31d": [
+            "pictures/picture_ciwei_0",
+            "cc.Texture2D"
+        ],
+        "a48802f4-b9f4-4f7d-8ecd-485d57d96efa": [
+            "pictures/picture_ciwei_0",
+            "cc.SpriteFrame",
+            1
+        ],
+        "234c0119-ec7f-4c89-aa34-fabaa8e331ef": [
+            "pictures/picture_ciwei_idle",
+            "cc.SpriteFrame",
+            1
+        ],
+        "631bccdb-3191-43f5-8750-b4490eb850a1": [
+            "pictures/picture_ciwei_idle",
+            "cc.Texture2D"
+        ],
+        "039af53e-c1f1-492e-9d5a-19a108da3d4f": [
+            "pictures/picture_fengniao_0",
+            "cc.Texture2D"
+        ],
+        "5385cabd-d3d7-4c7f-92e9-1c44276b98e2": [
+            "pictures/picture_fengniao_0",
+            "cc.SpriteFrame",
+            1
+        ],
+        "c84e43cf-372c-4b20-a546-9675d926a9c6": [
+            "pictures/picture_fengniao_idle",
+            "cc.Texture2D"
+        ],
+        "ce79a30f-b5d9-4dac-b2ca-4bcf71fd15e0": [
+            "pictures/picture_fengniao_idle",
+            "cc.SpriteFrame",
+            1
+        ],
+        "50410c19-a59f-4b27-8e95-6fa7528f128b": [
+            "pictures/picture_fuyou_0",
+            "cc.SpriteFrame",
+            1
+        ],
+        "6340e163-9615-4f94-8e21-1f9baa11e13f": [
+            "pictures/picture_fuyou_0",
+            "cc.Texture2D"
+        ],
+        "7c4ff8df-c520-4149-9db2-38a5c88f1c49": [
+            "pictures/picture_fuyou_idle",
+            "cc.SpriteFrame",
+            1
+        ],
+        "e2895730-e382-4e9f-beef-fb6e683457f7": [
+            "pictures/picture_fuyou_idle",
+            "cc.Texture2D"
+        ],
+        "629cf0cd-d5da-44d1-8092-d8ef15956a35": [
+            "pictures/picture_haita_0",
+            "cc.Texture2D"
+        ],
+        "8aa5eef3-fe60-435e-8bf1-66de643b582b": [
+            "pictures/picture_haita_0",
+            "cc.SpriteFrame",
+            1
+        ],
+        "3b7e2687-1589-4e17-a9f9-686ebd10bde9": [
+            "pictures/picture_haita_idle",
+            "cc.Texture2D"
+        ],
+        "9a6de710-3d77-46be-bcc7-0362b370625e": [
+            "pictures/picture_haita_idle",
+            "cc.SpriteFrame",
+            1
+        ],
+        "6e48a715-0830-44fe-8390-931292bdb85e": [
+            "pictures/picture_hehua_0",
+            "cc.Texture2D"
+        ],
+        "90a3ed37-bdfa-47d5-9c47-da762316cc09": [
+            "pictures/picture_hehua_0",
+            "cc.SpriteFrame",
+            1
+        ],
+        "0db91fe5-3c6b-47b5-9265-1e5cf9a099f5": [
+            "pictures/picture_hehua_idle",
+            "cc.Texture2D"
+        ],
+        "1e28a719-af9c-4ca2-a910-9a6d882eb0e6": [
+            "pictures/picture_hehua_idle",
+            "cc.SpriteFrame",
+            1
+        ],
+        "12f3c716-744a-4e1d-b382-1f24706a5390": [
+            "pictures/picture_hetun_0",
+            "cc.Texture2D"
+        ],
+        "e31c5213-96c2-4885-b4cf-337b8b6d2db7": [
+            "pictures/picture_hetun_0",
+            "cc.SpriteFrame",
+            1
+        ],
+        "46e0759a-bc7f-4cac-ac5a-c5b52c45e3b1": [
+            "pictures/picture_hetun_idle",
+            "cc.SpriteFrame",
+            1
+        ],
+        "bf6c09de-8139-4235-86b9-2575ae56ea34": [
+            "pictures/picture_hetun_idle",
+            "cc.Texture2D"
+        ],
+        "1b775e89-e736-4cf2-899d-098bc47fe974": [
+            "pictures/picture_houzi_0",
+            "cc.Texture2D"
+        ],
+        "e681fd16-916a-4ec9-9375-ee127a3e627f": [
+            "pictures/picture_houzi_0",
+            "cc.SpriteFrame",
+            1
+        ],
+        "3b117d89-1705-463d-8df7-415c9ec0bfb7": [
+            "pictures/picture_houzi_idle",
+            "cc.SpriteFrame",
+            1
+        ],
+        "9f0ebfba-2165-4481-9f9c-86929e5edc59": [
+            "pictures/picture_houzi_idle",
+            "cc.Texture2D"
+        ],
+        "79b63a4c-72a0-4edb-b1bf-0b90368ee1ea": [
+            "pictures/picture_huli_0",
+            "cc.SpriteFrame",
+            1
+        ],
+        "ebe03dff-03d2-487f-b836-aa07951d1276": [
+            "pictures/picture_huli_0",
+            "cc.Texture2D"
+        ],
+        "0d0b446d-239c-48e6-8011-fb7f2d325ae1": [
+            "pictures/picture_huli_idle",
+            "cc.Texture2D"
+        ],
+        "49ae2d03-1f52-4171-bdb0-25dee73be650": [
+            "pictures/picture_huli_idle",
+            "cc.SpriteFrame",
+            1
+        ],
+        "3b49c50c-e428-404c-98a3-9b5d24050483": [
+            "pictures/picture_lu_0",
+            "cc.Texture2D"
+        ],
+        "dd257ded-bfc2-495a-8361-46bf2d1371a2": [
+            "pictures/picture_lu_0",
+            "cc.SpriteFrame",
+            1
+        ],
+        "b1b439dc-d7c8-4cf1-a0f8-d2dacfa61295": [
+            "pictures/picture_lu_idle",
+            "cc.Texture2D"
+        ],
+        "c98edf38-5fea-4c2c-a95d-9827e54bf374": [
+            "pictures/picture_lu_idle",
+            "cc.SpriteFrame",
+            1
+        ],
+        "1b09c7a3-e79a-40aa-8c8c-3870683da899": [
+            "pictures/picture_maotouying_0",
+            "cc.Texture2D"
+        ],
+        "88d43fd1-1bc3-4807-abe5-e97dc0b26f88": [
+            "pictures/picture_maotouying_0",
+            "cc.SpriteFrame",
+            1
+        ],
+        "74b035e3-5545-462d-aa73-b4e207aac6de": [
+            "pictures/picture_maotouying_idle",
+            "cc.Texture2D"
+        ],
+        "f446f3b5-fa7b-47b3-99c9-12830da1ec44": [
+            "pictures/picture_maotouying_idle",
+            "cc.SpriteFrame",
+            1
+        ],
+        "07f96bc9-59d4-4911-bb3a-cc0ea9abc763": [
+            "pictures/picture_qingting_0",
+            "cc.Texture2D"
+        ],
+        "a6886609-e649-4a0c-907e-d4e884d24e35": [
+            "pictures/picture_qingting_0",
+            "cc.SpriteFrame",
+            1
+        ],
+        "3e54ca3b-7129-42d7-8554-db54a80cc8e4": [
+            "pictures/picture_qingting_idle",
+            "cc.Texture2D"
+        ],
+        "73caf834-b099-48b8-be34-beaa09ea7d87": [
+            "pictures/picture_qingting_idle",
+            "cc.SpriteFrame",
+            1
+        ],
+        "22171cd2-faba-4a59-acf6-6990c93e6014": [
+            "pictures/picture_qingwa_0",
+            "cc.Texture2D"
+        ],
+        "8bf8e8c1-9c49-46f3-bb6d-8fe04126853f": [
+            "pictures/picture_qingwa_0",
+            "cc.SpriteFrame",
+            1
+        ],
+        "1574e042-332d-47ac-8659-7d2cbd93083c": [
+            "pictures/picture_qingwa_idle",
+            "cc.Texture2D"
+        ],
+        "dc2f5a3e-38cc-4163-ab79-cdd04aba4c17": [
+            "pictures/picture_qingwa_idle",
+            "cc.SpriteFrame",
+            1
+        ],
+        "5b228a41-ce87-4495-b794-c54f4822cac6": [
+            "pictures/picture_tihu_0",
+            "cc.Texture2D"
+        ],
+        "73a1fba8-153c-4cc1-a194-06b8acc93f9c": [
+            "pictures/picture_tihu_0",
+            "cc.SpriteFrame",
+            1
+        ],
+        "2187ee6d-b1b5-4de7-ac54-a2b07a623e33": [
+            "pictures/picture_tihu_idle",
+            "cc.SpriteFrame",
+            1
+        ],
+        "5d2204cb-ef1d-4a31-ae45-57886be1e46d": [
+            "pictures/picture_tihu_idle",
+            "cc.Texture2D"
+        ],
+        "24f82382-571a-4f5c-a034-ee1b339b4ad5": [
+            "pictures/picture_woniu_0",
+            "cc.SpriteFrame",
+            1
+        ],
+        "b176c169-8f46-40d4-9361-652dd4e00795": [
+            "pictures/picture_woniu_0",
+            "cc.Texture2D"
+        ],
+        "10f1750b-d262-4562-b9f5-d9df2861de2b": [
+            "pictures/picture_woniu_idle",
+            "cc.SpriteFrame",
+            1
+        ],
+        "dc980545-5b51-4e03-9ea0-951d945df632": [
+            "pictures/picture_woniu_idle",
+            "cc.Texture2D"
+        ],
+        "a39c9809-a4fa-436b-a5e3-f7f0a33585b4": [
+            "pictures/picture_wugui_0",
+            "cc.SpriteFrame",
+            1
+        ],
+        "dd0c5496-56e5-4629-9e3b-3a749227f93a": [
+            "pictures/picture_wugui_0",
+            "cc.Texture2D"
+        ],
+        "201d3c19-6d7b-47fa-bcb6-8ff65849b53a": [
+            "pictures/picture_wugui_idle",
+            "cc.Texture2D"
+        ],
+        "b790ba63-b9f9-49d3-a74c-b136f4e0d896": [
+            "pictures/picture_wugui_idle",
+            "cc.SpriteFrame",
+            1
+        ],
+        "5149f1fe-2877-45ca-a5c0-1b3821976fb3": [
+            "pictures/picture_xiaoxiongmao_0",
+            "cc.Texture2D"
+        ],
+        "7b6b7dfe-015e-4772-94cf-f48f089351bb": [
+            "pictures/picture_xiaoxiongmao_0",
+            "cc.SpriteFrame",
+            1
+        ],
+        "02846642-a751-4add-b06a-a2ca97895f8e": [
+            "pictures/picture_xiaoxiongmao_idle",
+            "cc.Texture2D"
+        ],
+        "c7ffcff9-4b65-41c8-9818-5ef20d2b1275": [
+            "pictures/picture_xiaoxiongmao_idle",
+            "cc.SpriteFrame",
+            1
+        ],
+        "4591635f-e929-4717-a083-ba41264d3902": [
+            "pictures/picture_xiongmao_0",
+            "cc.Texture2D"
+        ],
+        "d306d65c-0ade-42e9-b1f1-b47ee7e498ce": [
+            "pictures/picture_xiongmao_0",
+            "cc.SpriteFrame",
+            1
+        ],
+        "18941ebd-f580-4c57-b548-816735c197b6": [
+            "pictures/picture_xiongmao_idle",
+            "cc.Texture2D"
+        ],
+        "6ed00e0c-ff3e-4087-bf64-380ec9d570fb": [
+            "pictures/picture_xiongmao_idle",
+            "cc.SpriteFrame",
+            1
+        ],
+        "1f218671-2269-4f3c-8712-4f0c97b4bd4f": [
+            "pictures/picture_yuezhongniao_0",
+            "cc.Texture2D"
+        ],
+        "fc8836e6-0599-4bca-aa45-1f44a81cc668": [
+            "pictures/picture_yuezhongniao_0",
+            "cc.SpriteFrame",
+            1
+        ],
+        "1c01c8c5-e7a2-4f37-8fe1-9b8b51cd7365": [
+            "pictures/picture_yuezhongniao_idle",
+            "cc.SpriteFrame",
+            1
+        ],
+        "b1048e2c-1053-419a-97f6-102a3a652b25": [
+            "pictures/picture_yuezhongniao_idle",
+            "cc.Texture2D"
+        ],
+        "7c2da115-cc86-4fec-9374-0ff611272d71": [
+            "pictures/picture_zhuiguang_0",
+            "cc.Texture2D"
+        ],
+        "a0e15dfb-4fd5-45cd-86ed-7a0b2bfdc0f9": [
+            "pictures/picture_zhuiguang_0",
+            "cc.SpriteFrame",
+            1
+        ],
+        "091ab58f-b2d4-4b97-bdf2-cf58547e70e2": [
+            "pictures/picture_zhuiguang_idle",
+            "cc.Texture2D"
+        ],
+        "ec715047-2e56-4353-bc28-56fd7570edff": [
+            "pictures/picture_zhuiguang_idle",
+            "cc.SpriteFrame",
+            1
+        ]
+    },
+    "uuids": [
+        "0207d1a2-3102-4d7d-8c7f-5aaf9b005389",
+        "02846642-a751-4add-b06a-a2ca97895f8e",
+        "039af53e-c1f1-492e-9d5a-19a108da3d4f",
+        "07f96bc9-59d4-4911-bb3a-cc0ea9abc763",
+        "091ab58f-b2d4-4b97-bdf2-cf58547e70e2",
+        "0963415c-cbe0-465e-a383-58dbb9e4444d",
+        "0d0b446d-239c-48e6-8011-fb7f2d325ae1",
+        "0db91fe5-3c6b-47b5-9265-1e5cf9a099f5",
+        "0fccaf79-ade0-4856-9bd5-d6232112bfc8",
+        "10f1750b-d262-4562-b9f5-d9df2861de2b",
+        "12b33f66-5c73-47a3-ab6b-cc5ad9a80c38",
+        "12f3c716-744a-4e1d-b382-1f24706a5390",
+        "12fd4516-8c96-4118-a194-8066a565a276",
+        "1574e042-332d-47ac-8659-7d2cbd93083c",
+        "168f0b24-7b29-402d-8e56-36197dcf64aa",
+        "18941ebd-f580-4c57-b548-816735c197b6",
+        "19cdd99c-21fe-4f6b-9525-b3e8f0a93fb5",
+        "1b09c7a3-e79a-40aa-8c8c-3870683da899",
+        "1b775e89-e736-4cf2-899d-098bc47fe974",
+        "1c01c8c5-e7a2-4f37-8fe1-9b8b51cd7365",
+        "1e28a719-af9c-4ca2-a910-9a6d882eb0e6",
+        "1f218671-2269-4f3c-8712-4f0c97b4bd4f",
+        "200c7e38-7312-4ced-b168-882913fcda40",
+        "201d3c19-6d7b-47fa-bcb6-8ff65849b53a",
+        "2187ee6d-b1b5-4de7-ac54-a2b07a623e33",
+        "22171cd2-faba-4a59-acf6-6990c93e6014",
+        "22aa15d7-3825-4969-95d9-1b93c2c1f21e",
+        "234c0119-ec7f-4c89-aa34-fabaa8e331ef",
+        "24f82382-571a-4f5c-a034-ee1b339b4ad5",
+        "25c3cefe-88c4-4509-b1a9-6efbde8ca676",
+        "2a5aba3f-3e32-401e-840d-cc6769dfd36c",
+        "2ab4f5e0-768d-4e3d-a27d-7c4eec7d01db",
+        "2b3969ca-ebb0-483a-85d3-326125f39885",
+        "2b8a254f-9992-4601-b9a4-e55a0e5dbdb7",
+        "34ce807e-487f-4bd4-ae8c-31a5698b4fce",
+        "368f4aa1-95aa-42ac-9a87-2c3cca469edc",
+        "39e24e01-8672-4c0e-a274-ab2807afb43c",
+        "3b117d89-1705-463d-8df7-415c9ec0bfb7",
+        "3b49c50c-e428-404c-98a3-9b5d24050483",
+        "3b7e2687-1589-4e17-a9f9-686ebd10bde9",
+        "3d517820-4dca-4157-a443-92d8cabe14cc",
+        "3de06379-b792-4a19-ad63-a000ec6af517",
+        "3e54ca3b-7129-42d7-8554-db54a80cc8e4",
+        "3ed3e217-1ca4-432f-9ba1-0ce93212589c",
+        "4591635f-e929-4717-a083-ba41264d3902",
+        "46b18ed7-bbd7-4dfa-9649-2f9d6e5c619b",
+        "46e0759a-bc7f-4cac-ac5a-c5b52c45e3b1",
+        "49ae2d03-1f52-4171-bdb0-25dee73be650",
+        "4efdb854-a4d4-4f48-ba85-78a10e590ed7",
+        "50410c19-a59f-4b27-8e95-6fa7528f128b",
+        "5149f1fe-2877-45ca-a5c0-1b3821976fb3",
+        "5385cabd-d3d7-4c7f-92e9-1c44276b98e2",
+        "5b228a41-ce87-4495-b794-c54f4822cac6",
+        "5d2204cb-ef1d-4a31-ae45-57886be1e46d",
+        "61ebaa1f-b255-48d3-bfbd-2112fc7501ea",
+        "629cf0cd-d5da-44d1-8092-d8ef15956a35",
+        "631bccdb-3191-43f5-8750-b4490eb850a1",
+        "6340e163-9615-4f94-8e21-1f9baa11e13f",
+        "6b8ce057-9d58-453b-86bf-5a5dc9eae547",
+        "6bed7009-ccd9-417f-a8d9-830336c5cb41",
+        "6bed75a5-e9ec-48b7-9df4-cfc6ebadca27",
+        "6e48a715-0830-44fe-8390-931292bdb85e",
+        "6e71a523-7ea7-480d-846e-3f9bf83c24ae",
+        "6ed00e0c-ff3e-4087-bf64-380ec9d570fb",
+        "7190b2e2-31b1-4e61-ae48-4747c732a31d",
+        "739b46e8-038a-4480-9eca-44d3a7cee706",
+        "73a1fba8-153c-4cc1-a194-06b8acc93f9c",
+        "73caf834-b099-48b8-be34-beaa09ea7d87",
+        "74b035e3-5545-462d-aa73-b4e207aac6de",
+        "77af0b7e-544e-4e0e-812e-3191b180f59b",
+        "79b63a4c-72a0-4edb-b1bf-0b90368ee1ea",
+        "79d13753-c7f5-4f60-b14d-344e035ea713",
+        "7b08fef1-6bee-448a-91ce-2d0ff314ac17",
+        "7b6b7dfe-015e-4772-94cf-f48f089351bb",
+        "7c2da115-cc86-4fec-9374-0ff611272d71",
+        "7c4ff8df-c520-4149-9db2-38a5c88f1c49",
+        "7f23aae0-5473-44cc-a215-1c46a1a159d0",
+        "8018bbf6-ff1a-43fb-8d86-c53cfe975172",
+        "8849b6b8-2273-45e9-a36b-cac0708877b9",
+        "88d43fd1-1bc3-4807-abe5-e97dc0b26f88",
+        "8aa5eef3-fe60-435e-8bf1-66de643b582b",
+        "8bf8e8c1-9c49-46f3-bb6d-8fe04126853f",
+        "8f35cb3a-1b04-4494-bb2f-7a72592d58f3",
+        "8f71a1b5-ed14-4d7f-92f4-b407ad4f2467",
+        "8f8c6489-ec35-447c-a426-b8721ae9dfe5",
+        "90a3ed37-bdfa-47d5-9c47-da762316cc09",
+        "95507931-dd43-4482-91ad-e204a5bde637",
+        "97f34b6a-631f-406a-88f9-80ce9ef95205",
+        "9a6de710-3d77-46be-bcc7-0362b370625e",
+        "9aad48d6-1abe-4f7d-837e-8f83da796952",
+        "9b203931-5a02-4daa-b884-bacaf6941441",
+        "9b677ee8-4977-41d4-89ac-75e42823b27a",
+        "9bce6154-0d75-47fb-bc8b-543b3898ae30",
+        "9caaf023-e8fc-4200-99f9-f74af2048540",
+        "9f0ebfba-2165-4481-9f9c-86929e5edc59",
+        "a0242278-2c8f-4420-89ec-af7685bd89b3",
+        "a0e15dfb-4fd5-45cd-86ed-7a0b2bfdc0f9",
+        "a39c9809-a4fa-436b-a5e3-f7f0a33585b4",
+        "a48802f4-b9f4-4f7d-8ecd-485d57d96efa",
+        "a65d9633-0d65-49e5-bd32-6da74e9f6bb2",
+        "a6886609-e649-4a0c-907e-d4e884d24e35",
+        "a8ba797a-9db3-413c-a3e5-7ddb594731d9",
+        "ab527ad9-06fe-4b7e-b67d-f3c11fce3556",
+        "ac42b4a3-d527-4b1c-9591-580dea02b776",
+        "ac6d1d78-a670-45af-97cd-304362e9e805",
+        "ae5dbe09-cd6d-4e18-b254-6a15152a9f70",
+        "b1048e2c-1053-419a-97f6-102a3a652b25",
+        "b176c169-8f46-40d4-9361-652dd4e00795",
+        "b1b439dc-d7c8-4cf1-a0f8-d2dacfa61295",
+        "b790ba63-b9f9-49d3-a74c-b136f4e0d896",
+        "b90c4794-b939-4faa-9baa-ceeb4cb7a0f2",
+        "bed620e6-a6c5-4a0e-bbca-1411ce0d7b79",
+        "bf44fbe9-a25a-4cb8-a078-644ad7eaa830",
+        "bf6c09de-8139-4235-86b9-2575ae56ea34",
+        "bfe4124b-e91b-48a4-b23f-0a2b7d90f128",
+        "c2d6909d-8def-4ddd-9b5f-d659d2a1349c",
+        "c50cf177-63d9-4978-8935-bf50ac99c55b",
+        "c76964e8-9161-42c9-a0e5-d9f8a4eff8f5",
+        "c7ffcff9-4b65-41c8-9818-5ef20d2b1275",
+        "c84e43cf-372c-4b20-a546-9675d926a9c6",
+        "c95c245b-bbb2-4440-a0a3-67ff4c52c7af",
+        "c98edf38-5fea-4c2c-a95d-9827e54bf374",
+        "ccc8e3cf-880b-4270-9ca1-beaf3b4d568d",
+        "ce79a30f-b5d9-4dac-b2ca-4bcf71fd15e0",
+        "d16d3650-803e-423d-b24f-d892b0423645",
+        "d306d65c-0ade-42e9-b1f1-b47ee7e498ce",
+        "d3ac42c7-5d7d-4207-b26a-d0dc89da0ac9",
+        "d76d5f05-0a75-47a3-8737-8898a972c9b4",
+        "da9d19f2-1c62-4f87-902d-f77e96e52ebd",
+        "dc2f5a3e-38cc-4163-ab79-cdd04aba4c17",
+        "dc980545-5b51-4e03-9ea0-951d945df632",
+        "dd0c5496-56e5-4629-9e3b-3a749227f93a",
+        "dd257ded-bfc2-495a-8361-46bf2d1371a2",
+        "e2895730-e382-4e9f-beef-fb6e683457f7",
+        "e31c5213-96c2-4885-b4cf-337b8b6d2db7",
+        "e368f104-f3ed-46df-8f02-8080da2bbbca",
+        "e41d0479-2b40-49e7-b31e-5b4773ae0d25",
+        "e44f74b5-cbe0-4f1b-b189-99994f714f88",
+        "e681fd16-916a-4ec9-9375-ee127a3e627f",
+        "eb34de7c-72a8-464e-b88a-5ea6bde3462b",
+        "ebe03dff-03d2-487f-b836-aa07951d1276",
+        "ec715047-2e56-4353-bc28-56fd7570edff",
+        "eedcab88-266c-4451-aa42-4ed3baa2a070",
+        "f1300bd9-4fd3-4782-9130-fd7470bd9a97",
+        "f2043d60-5617-401e-818e-6203d19a2b22",
+        "f2a99652-a567-4d8b-a2d2-7afd9857f17c",
+        "f39c1e79-2e86-4184-af39-6e36dd10ff59",
+        "f446f3b5-fa7b-47b3-99c9-12830da1ec44",
+        "fc8836e6-0599-4bca-aa45-1f44a81cc668",
+        "feb0a505-b8f7-42a9-8491-aa164026a78a",
+        "feb24d08-1be0-4a70-b36f-7496c00b3206"
+    ],
+    "scenes": {},
+    "redirect": [],
+    "deps": [],
+    "packs": {},
+    "name": "102",
+    "importBase": "",
+    "nativeBase": "",
+    "debug": true
+}

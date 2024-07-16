@@ -1,0 +1,62 @@
+{
+    "paths": {
+        "1d83f5d5-67f2-430e-8d9d-19c1d4b28519": [
+            "qiu",
+            "sp.SkeletonData"
+        ],
+        "53d962c8-e9b8-4818-82cf-4a1af0dd4570": [
+            "qiu",
+            "cc.Prefab"
+        ],
+        "9e69e791-407d-4ef2-8487-cbd03f765b5a": [
+            "qiu",
+            "cc.Asset"
+        ],
+        "e759f787-713c-4795-92a0-fc7db4af1ddd": [
+            "qiu",
+            "cc.SpriteFrame",
+            1
+        ],
+        "ebddc7ae-ee3f-4ebb-92bf-bce76af4136f": [
+            "qiu",
+            "cc.Texture2D"
+        ],
+        "580b32f2-dfa5-44ce-acdf-6aa2e8461405": [
+            "qiu2",
+            "cc.SpriteFrame",
+            1
+        ],
+        "f700eb04-68f6-45b7-af9f-13c1e8dca0d4": [
+            "qiu2",
+            "cc.Texture2D"
+        ],
+        "0a648f98-7808-43be-9980-3ce8d8e0b0ab": [
+            "qiu3",
+            "cc.SpriteFrame",
+            1
+        ],
+        "d710b6dc-6817-4a91-838d-89f100bb8ef9": [
+            "qiu3",
+            "cc.Texture2D"
+        ]
+    },
+    "uuids": [
+        "0a648f98-7808-43be-9980-3ce8d8e0b0ab",
+        "1d83f5d5-67f2-430e-8d9d-19c1d4b28519",
+        "53d962c8-e9b8-4818-82cf-4a1af0dd4570",
+        "580b32f2-dfa5-44ce-acdf-6aa2e8461405",
+        "9e69e791-407d-4ef2-8487-cbd03f765b5a",
+        "d710b6dc-6817-4a91-838d-89f100bb8ef9",
+        "e759f787-713c-4795-92a0-fc7db4af1ddd",
+        "ebddc7ae-ee3f-4ebb-92bf-bce76af4136f",
+        "f700eb04-68f6-45b7-af9f-13c1e8dca0d4"
+    ],
+    "scenes": {},
+    "redirect": [],
+    "deps": [],
+    "packs": {},
+    "name": "qiu",
+    "importBase": "",
+    "nativeBase": "",
+    "debug": true
+}

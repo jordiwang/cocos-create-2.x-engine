@@ -1,0 +1,73 @@
+{
+    "paths": {
+        "0d93d2f0-bb96-4056-a756-da029c0259a2": [
+            "huaguoshi",
+            "cc.Texture2D"
+        ],
+        "11743f23-8eea-4fc0-a9b8-04f5e2b00b9d": [
+            "huaguoshi",
+            "cc.Prefab"
+        ],
+        "1a85b05d-8f84-4aa7-a44c-febfdb4a15df": [
+            "huaguoshi",
+            "sp.SkeletonData"
+        ],
+        "dad22fff-380e-45d5-9a97-95ebd567be4a": [
+            "huaguoshi",
+            "cc.SpriteFrame",
+            1
+        ],
+        "e9161a4c-8060-45d4-a3f8-cd2683ac822d": [
+            "huaguoshi",
+            "cc.Asset"
+        ],
+        "a06a8467-126c-430a-baf6-6b5603b755fa": [
+            "huaguoshi2",
+            "cc.Texture2D"
+        ],
+        "b51a9175-ea41-4c2d-885f-b595d86e1f6f": [
+            "huaguoshi2",
+            "cc.SpriteFrame",
+            1
+        ],
+        "8f4d39b8-f89c-4c31-9c62-7b578fabe35e": [
+            "huaguoshi3",
+            "cc.Texture2D"
+        ],
+        "ecdb7ef0-4d3c-4195-a206-77cc91ea0ff4": [
+            "huaguoshi3",
+            "cc.SpriteFrame",
+            1
+        ],
+        "6ac4edfe-fe4a-48c0-add9-9e8e649e3f16": [
+            "huaguoshi4",
+            "cc.SpriteFrame",
+            1
+        ],
+        "c06ce581-2271-4307-a090-ebdb82d58bf8": [
+            "huaguoshi4",
+            "cc.Texture2D"
+        ]
+    },
+    "uuids": [
+        "0d93d2f0-bb96-4056-a756-da029c0259a2",
+        "11743f23-8eea-4fc0-a9b8-04f5e2b00b9d",
+        "1a85b05d-8f84-4aa7-a44c-febfdb4a15df",
+        "6ac4edfe-fe4a-48c0-add9-9e8e649e3f16",
+        "8f4d39b8-f89c-4c31-9c62-7b578fabe35e",
+        "a06a8467-126c-430a-baf6-6b5603b755fa",
+        "b51a9175-ea41-4c2d-885f-b595d86e1f6f",
+        "c06ce581-2271-4307-a090-ebdb82d58bf8",
+        "dad22fff-380e-45d5-9a97-95ebd567be4a",
+        "e9161a4c-8060-45d4-a3f8-cd2683ac822d",
+        "ecdb7ef0-4d3c-4195-a206-77cc91ea0ff4"
+    ],
+    "scenes": {},
+    "redirect": [],
+    "deps": [],
+    "packs": {},
+    "name": "huaguoshi",
+    "importBase": "",
+    "nativeBase": "",
+    "debug": true
+}

@@ -1,0 +1,73 @@
+{
+    "paths": {
+        "36fb6f10-34d5-46c0-aab6-0d5e645529a8": [
+            "liushui",
+            "cc.Prefab"
+        ],
+        "891a6cf4-10aa-4051-87d1-8c63b792d382": [
+            "liushui",
+            "cc.Asset"
+        ],
+        "8a299b25-e0c8-4a73-8746-d5ebcb5b1247": [
+            "liushui",
+            "cc.Texture2D"
+        ],
+        "8f785dc8-4367-44b4-8a91-7a7158d51487": [
+            "liushui",
+            "sp.SkeletonData"
+        ],
+        "92eeb3bc-50ea-4f74-8d1a-558d2123fdac": [
+            "liushui",
+            "cc.SpriteFrame",
+            1
+        ],
+        "275e0517-4a49-44b6-bfa4-288d46ee7609": [
+            "liushui2",
+            "cc.Texture2D"
+        ],
+        "8508324d-30f5-4e0d-a074-7f6b1d9697bb": [
+            "liushui2",
+            "cc.SpriteFrame",
+            1
+        ],
+        "02dc7399-e7f5-40cd-9d21-c9099975c044": [
+            "liushui3",
+            "cc.Texture2D"
+        ],
+        "878f10ca-3e58-4eea-8f47-3bce5523ec92": [
+            "liushui3",
+            "cc.SpriteFrame",
+            1
+        ],
+        "00bdc484-f416-48a7-9943-c2bce535a8bf": [
+            "liushui4",
+            "cc.Texture2D"
+        ],
+        "92283822-f9b1-4be1-90d1-3942534fee33": [
+            "liushui4",
+            "cc.SpriteFrame",
+            1
+        ]
+    },
+    "uuids": [
+        "00bdc484-f416-48a7-9943-c2bce535a8bf",
+        "02dc7399-e7f5-40cd-9d21-c9099975c044",
+        "275e0517-4a49-44b6-bfa4-288d46ee7609",
+        "36fb6f10-34d5-46c0-aab6-0d5e645529a8",
+        "8508324d-30f5-4e0d-a074-7f6b1d9697bb",
+        "878f10ca-3e58-4eea-8f47-3bce5523ec92",
+        "891a6cf4-10aa-4051-87d1-8c63b792d382",
+        "8a299b25-e0c8-4a73-8746-d5ebcb5b1247",
+        "8f785dc8-4367-44b4-8a91-7a7158d51487",
+        "92283822-f9b1-4be1-90d1-3942534fee33",
+        "92eeb3bc-50ea-4f74-8d1a-558d2123fdac"
+    ],
+    "scenes": {},
+    "redirect": [],
+    "deps": [],
+    "packs": {},
+    "name": "liushui",
+    "importBase": "",
+    "nativeBase": "",
+    "debug": true
+}

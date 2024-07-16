@@ -1,0 +1,62 @@
+{
+    "paths": {
+        "b0fe316b-361b-4d4a-8c92-f27cbace666b": [
+            "ciwei",
+            "sp.SkeletonData"
+        ],
+        "bea1423a-1d1d-43b5-b6a0-0d145003e059": [
+            "ciwei",
+            "cc.Asset"
+        ],
+        "cd8a9f34-049b-4595-b8f2-e70139d52ade": [
+            "ciwei",
+            "cc.SpriteFrame",
+            1
+        ],
+        "f7317bc8-5e6d-4d14-aede-c4c0a232961a": [
+            "ciwei",
+            "cc.Prefab"
+        ],
+        "faa24267-7d03-48ae-b223-537ba22a420a": [
+            "ciwei",
+            "cc.Texture2D"
+        ],
+        "9d689ab7-a9f4-4329-ac32-840e9d104c3d": [
+            "ciwei2",
+            "cc.Texture2D"
+        ],
+        "ab9c56c2-207e-4186-9f0a-ed6bf5714607": [
+            "ciwei2",
+            "cc.SpriteFrame",
+            1
+        ],
+        "0c6cfe7a-33f0-4388-a76d-ca1de880cc77": [
+            "ciwei3",
+            "cc.Texture2D"
+        ],
+        "bf343538-7a09-49b2-bb56-33e16e66186e": [
+            "ciwei3",
+            "cc.SpriteFrame",
+            1
+        ]
+    },
+    "uuids": [
+        "0c6cfe7a-33f0-4388-a76d-ca1de880cc77",
+        "9d689ab7-a9f4-4329-ac32-840e9d104c3d",
+        "ab9c56c2-207e-4186-9f0a-ed6bf5714607",
+        "b0fe316b-361b-4d4a-8c92-f27cbace666b",
+        "bea1423a-1d1d-43b5-b6a0-0d145003e059",
+        "bf343538-7a09-49b2-bb56-33e16e66186e",
+        "cd8a9f34-049b-4595-b8f2-e70139d52ade",
+        "f7317bc8-5e6d-4d14-aede-c4c0a232961a",
+        "faa24267-7d03-48ae-b223-537ba22a420a"
+    ],
+    "scenes": {},
+    "redirect": [],
+    "deps": [],
+    "packs": {},
+    "name": "ciwei",
+    "importBase": "",
+    "nativeBase": "",
+    "debug": true
+}

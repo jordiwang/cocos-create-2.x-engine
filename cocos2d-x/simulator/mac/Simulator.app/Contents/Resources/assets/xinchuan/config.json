@@ -1,0 +1,73 @@
+{
+    "paths": {
+        "157d9144-112a-4729-9c15-d919b62b1c8e": [
+            "xinchuan",
+            "sp.SkeletonData"
+        ],
+        "22ba2c02-bee6-4bac-a5ab-515366ba7c0e": [
+            "xinchuan",
+            "cc.Asset"
+        ],
+        "9c493f01-d793-486b-99f0-a4b543b0bc66": [
+            "xinchuan",
+            "cc.Prefab"
+        ],
+        "bee596b7-8e06-45dd-802a-ad86c9529a87": [
+            "xinchuan",
+            "cc.SpriteFrame",
+            1
+        ],
+        "c880561e-611e-45f2-8b00-7c3bf786aade": [
+            "xinchuan",
+            "cc.Texture2D"
+        ],
+        "055d89c8-707e-4624-bab4-67193ecbfd5c": [
+            "xinchuan2",
+            "cc.Texture2D"
+        ],
+        "13d66829-ee3b-47b8-a6b9-d0acf61fa5a6": [
+            "xinchuan2",
+            "cc.SpriteFrame",
+            1
+        ],
+        "448586b7-e387-4e19-b7ba-f259ca7ef5d6": [
+            "xinchuan3",
+            "cc.SpriteFrame",
+            1
+        ],
+        "c6ec4acc-c2f3-4316-97cf-94664241b77d": [
+            "xinchuan3",
+            "cc.Texture2D"
+        ],
+        "043f551b-6b04-4800-ae54-d57487feeef5": [
+            "xinchuan4",
+            "cc.SpriteFrame",
+            1
+        ],
+        "f8771979-5456-4d20-ab97-acf0b7eb5d0b": [
+            "xinchuan4",
+            "cc.Texture2D"
+        ]
+    },
+    "uuids": [
+        "043f551b-6b04-4800-ae54-d57487feeef5",
+        "055d89c8-707e-4624-bab4-67193ecbfd5c",
+        "13d66829-ee3b-47b8-a6b9-d0acf61fa5a6",
+        "157d9144-112a-4729-9c15-d919b62b1c8e",
+        "22ba2c02-bee6-4bac-a5ab-515366ba7c0e",
+        "448586b7-e387-4e19-b7ba-f259ca7ef5d6",
+        "9c493f01-d793-486b-99f0-a4b543b0bc66",
+        "bee596b7-8e06-45dd-802a-ad86c9529a87",
+        "c6ec4acc-c2f3-4316-97cf-94664241b77d",
+        "c880561e-611e-45f2-8b00-7c3bf786aade",
+        "f8771979-5456-4d20-ab97-acf0b7eb5d0b"
+    ],
+    "scenes": {},
+    "redirect": [],
+    "deps": [],
+    "packs": {},
+    "name": "xinchuan",
+    "importBase": "",
+    "nativeBase": "",
+    "debug": true
+}

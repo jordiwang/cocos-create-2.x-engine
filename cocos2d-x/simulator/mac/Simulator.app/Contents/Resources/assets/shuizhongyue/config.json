@@ -1,0 +1,51 @@
+{
+    "paths": {
+        "12118cd4-6a06-4952-8ff2-0156e61c95af": [
+            "shuizhongyue",
+            "cc.SpriteFrame",
+            1
+        ],
+        "2d79662e-cbea-43e5-beb7-1d4dfbdbe90a": [
+            "shuizhongyue",
+            "cc.Prefab"
+        ],
+        "3162e365-0a54-4501-9505-dc9ea1464513": [
+            "shuizhongyue",
+            "cc.Texture2D"
+        ],
+        "56f47572-708b-4fbb-9789-9148ff968e7f": [
+            "shuizhongyue",
+            "sp.SkeletonData"
+        ],
+        "7d9e9bf6-e203-4f67-80cd-e5b872abd6de": [
+            "shuizhongyue",
+            "cc.Asset"
+        ],
+        "071b2f86-ae06-4d71-94fb-bcb2eeb1c92a": [
+            "shuizhongyue2",
+            "cc.SpriteFrame",
+            1
+        ],
+        "b96335c7-b429-44c3-a1b6-51543871600c": [
+            "shuizhongyue2",
+            "cc.Texture2D"
+        ]
+    },
+    "uuids": [
+        "071b2f86-ae06-4d71-94fb-bcb2eeb1c92a",
+        "12118cd4-6a06-4952-8ff2-0156e61c95af",
+        "2d79662e-cbea-43e5-beb7-1d4dfbdbe90a",
+        "3162e365-0a54-4501-9505-dc9ea1464513",
+        "56f47572-708b-4fbb-9789-9148ff968e7f",
+        "7d9e9bf6-e203-4f67-80cd-e5b872abd6de",
+        "b96335c7-b429-44c3-a1b6-51543871600c"
+    ],
+    "scenes": {},
+    "redirect": [],
+    "deps": [],
+    "packs": {},
+    "name": "shuizhongyue",
+    "importBase": "",
+    "nativeBase": "",
+    "debug": true
+}

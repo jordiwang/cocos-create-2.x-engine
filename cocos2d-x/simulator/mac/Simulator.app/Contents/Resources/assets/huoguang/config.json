@@ -1,0 +1,51 @@
+{
+    "paths": {
+        "5ac3571e-8f97-4c66-92df-207883e4b569": [
+            "huoguang",
+            "cc.Asset"
+        ],
+        "6f001a52-1cf9-4cc8-9a8d-5caaa098dbf3": [
+            "huoguang",
+            "cc.Texture2D"
+        ],
+        "a7ca31f8-c676-43b3-927a-ece1644eb17d": [
+            "huoguang",
+            "cc.Prefab"
+        ],
+        "b4c12ce5-43f5-48d7-9b84-ab21d9e5a323": [
+            "huoguang",
+            "sp.SkeletonData"
+        ],
+        "d96dd771-30d8-456c-b821-e0d1c541a95b": [
+            "huoguang",
+            "cc.SpriteFrame",
+            1
+        ],
+        "361b4630-9dce-429f-a5d1-bfc5bb8ee4e9": [
+            "huoguang2",
+            "cc.SpriteFrame",
+            1
+        ],
+        "ec21a5d8-87cd-4367-aa5c-1a7d6f821464": [
+            "huoguang2",
+            "cc.Texture2D"
+        ]
+    },
+    "uuids": [
+        "361b4630-9dce-429f-a5d1-bfc5bb8ee4e9",
+        "5ac3571e-8f97-4c66-92df-207883e4b569",
+        "6f001a52-1cf9-4cc8-9a8d-5caaa098dbf3",
+        "a7ca31f8-c676-43b3-927a-ece1644eb17d",
+        "b4c12ce5-43f5-48d7-9b84-ab21d9e5a323",
+        "d96dd771-30d8-456c-b821-e0d1c541a95b",
+        "ec21a5d8-87cd-4367-aa5c-1a7d6f821464"
+    ],
+    "scenes": {},
+    "redirect": [],
+    "deps": [],
+    "packs": {},
+    "name": "huoguang",
+    "importBase": "",
+    "nativeBase": "",
+    "debug": true
+}

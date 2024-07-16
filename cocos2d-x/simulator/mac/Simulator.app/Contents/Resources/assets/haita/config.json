@@ -1,0 +1,51 @@
+{
+    "paths": {
+        "14cd0ffd-7893-4127-9526-64e2c8930e92": [
+            "haita",
+            "cc.SpriteFrame",
+            1
+        ],
+        "39eb62a7-8d76-411c-ba65-3b61614e83ff": [
+            "haita",
+            "cc.Asset"
+        ],
+        "716472ba-f063-4d19-933c-274846666d09": [
+            "haita",
+            "sp.SkeletonData"
+        ],
+        "8fbe6dc4-6d4d-4282-ae07-65fe06cebd6a": [
+            "haita",
+            "cc.Prefab"
+        ],
+        "e31ac9bd-1b8b-451c-a55f-e2c4c858d0bb": [
+            "haita",
+            "cc.Texture2D"
+        ],
+        "a97335f2-c4d2-4f13-884c-0d00923ac3c8": [
+            "haita2",
+            "cc.Texture2D"
+        ],
+        "ba61238c-a9e1-43cf-9034-5b4d24b7e033": [
+            "haita2",
+            "cc.SpriteFrame",
+            1
+        ]
+    },
+    "uuids": [
+        "14cd0ffd-7893-4127-9526-64e2c8930e92",
+        "39eb62a7-8d76-411c-ba65-3b61614e83ff",
+        "716472ba-f063-4d19-933c-274846666d09",
+        "8fbe6dc4-6d4d-4282-ae07-65fe06cebd6a",
+        "a97335f2-c4d2-4f13-884c-0d00923ac3c8",
+        "ba61238c-a9e1-43cf-9034-5b4d24b7e033",
+        "e31ac9bd-1b8b-451c-a55f-e2c4c858d0bb"
+    ],
+    "scenes": {},
+    "redirect": [],
+    "deps": [],
+    "packs": {},
+    "name": "haita",
+    "importBase": "",
+    "nativeBase": "",
+    "debug": true
+}

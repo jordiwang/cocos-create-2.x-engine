@@ -1,0 +1,62 @@
+{
+    "paths": {
+        "03e6411f-6117-452e-8f20-5e34dea63e69": [
+            "yongge",
+            "cc.Asset"
+        ],
+        "1d2af527-d6bb-42b2-9f4c-63bffaf7e19c": [
+            "yongge",
+            "cc.SpriteFrame",
+            1
+        ],
+        "1db64382-ed7b-4eb8-80b5-299ccc77d7e4": [
+            "yongge",
+            "cc.Texture2D"
+        ],
+        "b3cf3266-d263-497e-956e-556821898463": [
+            "yongge",
+            "cc.Prefab"
+        ],
+        "d84dccb3-e081-47f4-8061-e4729ac1bd14": [
+            "yongge",
+            "sp.SkeletonData"
+        ],
+        "a550f1a5-78fa-4d7a-9b3e-be08abc74f00": [
+            "yongge2",
+            "cc.Texture2D"
+        ],
+        "fb89639b-6014-47fb-988b-017c169c731c": [
+            "yongge2",
+            "cc.SpriteFrame",
+            1
+        ],
+        "0769e73e-0129-411d-be4d-f65640e70f3e": [
+            "yongge3",
+            "cc.Texture2D"
+        ],
+        "dbc01b3b-b4f8-4ed9-8bdc-78aa36c74dd8": [
+            "yongge3",
+            "cc.SpriteFrame",
+            1
+        ]
+    },
+    "uuids": [
+        "03e6411f-6117-452e-8f20-5e34dea63e69",
+        "0769e73e-0129-411d-be4d-f65640e70f3e",
+        "1d2af527-d6bb-42b2-9f4c-63bffaf7e19c",
+        "1db64382-ed7b-4eb8-80b5-299ccc77d7e4",
+        "a550f1a5-78fa-4d7a-9b3e-be08abc74f00",
+        "b3cf3266-d263-497e-956e-556821898463",
+        "d84dccb3-e081-47f4-8061-e4729ac1bd14",
+        "dbc01b3b-b4f8-4ed9-8bdc-78aa36c74dd8",
+        "fb89639b-6014-47fb-988b-017c169c731c"
+    ],
+    "scenes": {},
+    "redirect": [],
+    "deps": [],
+    "packs": {},
+    "name": "yongge",
+    "importBase": "",
+    "nativeBase": "",
+    "debug": true
+}

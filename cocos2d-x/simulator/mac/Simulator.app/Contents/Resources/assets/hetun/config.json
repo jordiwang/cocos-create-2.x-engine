@@ -1,0 +1,40 @@
+{
+    "paths": {
+        "2449a847-268e-490b-868a-8dc3fc97110d": [
+            "hetun",
+            "cc.Asset"
+        ],
+        "4b44102d-ee55-47fd-b592-2b340a716775": [
+            "hetun",
+            "sp.SkeletonData"
+        ],
+        "93f04ddd-eae5-4ccc-bc3f-86e8e4d55130": [
+            "hetun",
+            "cc.Texture2D"
+        ],
+        "a69d6985-7ca2-40ed-b345-b85dd820e2c0": [
+            "hetun",
+            "cc.SpriteFrame",
+            1
+        ],
+        "dc72f5ce-f33e-4ccb-8c46-5fab6f26b49a": [
+            "hetun",
+            "cc.Prefab"
+        ]
+    },
+    "uuids": [
+        "2449a847-268e-490b-868a-8dc3fc97110d",
+        "4b44102d-ee55-47fd-b592-2b340a716775",
+        "93f04ddd-eae5-4ccc-bc3f-86e8e4d55130",
+        "a69d6985-7ca2-40ed-b345-b85dd820e2c0",
+        "dc72f5ce-f33e-4ccb-8c46-5fab6f26b49a"
+    ],
+    "scenes": {},
+    "redirect": [],
+    "deps": [],
+    "packs": {},
+    "name": "hetun",
+    "importBase": "",
+    "nativeBase": "",
+    "debug": true
+}

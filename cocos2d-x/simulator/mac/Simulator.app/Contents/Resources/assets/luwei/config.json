@@ -1,0 +1,62 @@
+{
+    "paths": {
+        "45dc201f-c21d-4733-8256-fc565a6f45ad": [
+            "luwei",
+            "cc.Asset"
+        ],
+        "4d5c0b6e-fe41-4fc7-89e3-9657617fae95": [
+            "luwei",
+            "cc.Prefab"
+        ],
+        "54d321d0-4153-4032-b227-fcb0dbfbd873": [
+            "luwei",
+            "cc.Texture2D"
+        ],
+        "8121f7cf-6a8c-4b0b-9e67-5a9e6831b49e": [
+            "luwei",
+            "sp.SkeletonData"
+        ],
+        "8b8ed0d4-5135-41e1-93bd-609fd89764da": [
+            "luwei",
+            "cc.SpriteFrame",
+            1
+        ],
+        "150e3544-e831-44c6-8be9-65eef9d4d37f": [
+            "luwei2",
+            "cc.SpriteFrame",
+            1
+        ],
+        "219bf8ce-98dc-4574-a1ad-0b8e887b65ff": [
+            "luwei2",
+            "cc.Texture2D"
+        ],
+        "6b4ef02a-9cfd-4a22-b32d-722673fa2eba": [
+            "luwei3",
+            "cc.Texture2D"
+        ],
+        "fa682922-1dc5-41b0-8a3e-f212793b516f": [
+            "luwei3",
+            "cc.SpriteFrame",
+            1
+        ]
+    },
+    "uuids": [
+        "150e3544-e831-44c6-8be9-65eef9d4d37f",
+        "219bf8ce-98dc-4574-a1ad-0b8e887b65ff",
+        "45dc201f-c21d-4733-8256-fc565a6f45ad",
+        "4d5c0b6e-fe41-4fc7-89e3-9657617fae95",
+        "54d321d0-4153-4032-b227-fcb0dbfbd873",
+        "6b4ef02a-9cfd-4a22-b32d-722673fa2eba",
+        "8121f7cf-6a8c-4b0b-9e67-5a9e6831b49e",
+        "8b8ed0d4-5135-41e1-93bd-609fd89764da",
+        "fa682922-1dc5-41b0-8a3e-f212793b516f"
+    ],
+    "scenes": {},
+    "redirect": [],
+    "deps": [],
+    "packs": {},
+    "name": "luwei",
+    "importBase": "",
+    "nativeBase": "",
+    "debug": true
+}

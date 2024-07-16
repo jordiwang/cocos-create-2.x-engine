@@ -1,0 +1,95 @@
+{
+    "paths": {
+        "3a0229a3-6b4c-486b-8605-b8a931f111f5": [
+            "shanhua",
+            "cc.Texture2D"
+        ],
+        "6e14aae4-6e79-4412-a422-1b9a1f8fb511": [
+            "shanhua",
+            "cc.Asset"
+        ],
+        "7c1b2d75-9cf0-4e73-add9-ea389241677b": [
+            "shanhua",
+            "sp.SkeletonData"
+        ],
+        "8e99c221-8b07-49e2-a632-8bfc379d8606": [
+            "shanhua",
+            "cc.SpriteFrame",
+            1
+        ],
+        "b26d58e4-a08d-4a8a-a034-ddc24434f34b": [
+            "shanhua",
+            "cc.Prefab"
+        ],
+        "48a719e7-e3c2-4a4a-baa3-b737f787281c": [
+            "shanhua2",
+            "cc.SpriteFrame",
+            1
+        ],
+        "f3d3ec75-aec3-4914-b290-1d50113269d3": [
+            "shanhua2",
+            "cc.Texture2D"
+        ],
+        "e8a45e87-c6f7-4095-8952-a98609d813a3": [
+            "shanhua3",
+            "cc.Texture2D"
+        ],
+        "f2c16baf-1bc1-4aa6-a828-2ae301d0b3c2": [
+            "shanhua3",
+            "cc.SpriteFrame",
+            1
+        ],
+        "3052046b-9c27-4403-a668-584874ff1162": [
+            "shanhua4",
+            "cc.Texture2D"
+        ],
+        "bec18413-7849-463e-980d-fb74bb597478": [
+            "shanhua4",
+            "cc.SpriteFrame",
+            1
+        ],
+        "24d87680-a973-4ca5-84c0-8dca7a49473f": [
+            "shanhua5",
+            "cc.SpriteFrame",
+            1
+        ],
+        "fa5d2826-4ebd-4a93-90d5-250f3b5180ea": [
+            "shanhua5",
+            "cc.Texture2D"
+        ],
+        "7512f643-207b-4bdb-8194-f3d4d308f452": [
+            "shanhua6",
+            "cc.Texture2D"
+        ],
+        "fadf6d27-682d-4c67-b7f6-5f7344ce2df7": [
+            "shanhua6",
+            "cc.SpriteFrame",
+            1
+        ]
+    },
+    "uuids": [
+        "24d87680-a973-4ca5-84c0-8dca7a49473f",
+        "3052046b-9c27-4403-a668-584874ff1162",
+        "3a0229a3-6b4c-486b-8605-b8a931f111f5",
+        "48a719e7-e3c2-4a4a-baa3-b737f787281c",
+        "6e14aae4-6e79-4412-a422-1b9a1f8fb511",
+        "7512f643-207b-4bdb-8194-f3d4d308f452",
+        "7c1b2d75-9cf0-4e73-add9-ea389241677b",
+        "8e99c221-8b07-49e2-a632-8bfc379d8606",
+        "b26d58e4-a08d-4a8a-a034-ddc24434f34b",
+        "bec18413-7849-463e-980d-fb74bb597478",
+        "e8a45e87-c6f7-4095-8952-a98609d813a3",
+        "f2c16baf-1bc1-4aa6-a828-2ae301d0b3c2",
+        "f3d3ec75-aec3-4914-b290-1d50113269d3",
+        "fa5d2826-4ebd-4a93-90d5-250f3b5180ea",
+        "fadf6d27-682d-4c67-b7f6-5f7344ce2df7"
+    ],
+    "scenes": {},
+    "redirect": [],
+    "deps": [],
+    "packs": {},
+    "name": "shanhua",
+    "importBase": "",
+    "nativeBase": "",
+    "debug": true
+}

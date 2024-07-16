@@ -1,0 +1,40 @@
+{
+    "paths": {
+        "00797a4f-4cfe-41a6-acef-41892866165e": [
+            "yededengzhan",
+            "cc.Asset"
+        ],
+        "0187e07b-f7b5-4042-a3e0-a12942e004e8": [
+            "yededengzhan",
+            "sp.SkeletonData"
+        ],
+        "6724607b-9c8e-440a-ae9f-b8e920eb1d7c": [
+            "yededengzhan",
+            "cc.SpriteFrame",
+            1
+        ],
+        "865fcc78-682c-480e-a128-21b8a5f43303": [
+            "yededengzhan",
+            "cc.Prefab"
+        ],
+        "af2c28eb-a4e0-40d4-8652-e77fa308228d": [
+            "yededengzhan",
+            "cc.Texture2D"
+        ]
+    },
+    "uuids": [
+        "00797a4f-4cfe-41a6-acef-41892866165e",
+        "0187e07b-f7b5-4042-a3e0-a12942e004e8",
+        "6724607b-9c8e-440a-ae9f-b8e920eb1d7c",
+        "865fcc78-682c-480e-a128-21b8a5f43303",
+        "af2c28eb-a4e0-40d4-8652-e77fa308228d"
+    ],
+    "scenes": {},
+    "redirect": [],
+    "deps": [],
+    "packs": {},
+    "name": "yededengzhan",
+    "importBase": "",
+    "nativeBase": "",
+    "debug": true
+}

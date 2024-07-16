@@ -1,0 +1,40 @@
+{
+    "paths": {
+        "0df92452-7de4-4922-916a-382de2b6332f": [
+            "chenru",
+            "cc.Texture2D"
+        ],
+        "27df7c82-d439-4b69-899a-8c407ee061e2": [
+            "chenru",
+            "cc.Asset"
+        ],
+        "27ed14d7-8bd9-44c4-a373-d95765f336ee": [
+            "chenru",
+            "sp.SkeletonData"
+        ],
+        "31c02cff-7db0-4f33-80c0-bc0980037be4": [
+            "chenru",
+            "cc.SpriteFrame",
+            1
+        ],
+        "6aa5ee8f-d8ce-4b32-b588-f76914f29dd0": [
+            "chenru",
+            "cc.Prefab"
+        ]
+    },
+    "uuids": [
+        "0df92452-7de4-4922-916a-382de2b6332f",
+        "27df7c82-d439-4b69-899a-8c407ee061e2",
+        "27ed14d7-8bd9-44c4-a373-d95765f336ee",
+        "31c02cff-7db0-4f33-80c0-bc0980037be4",
+        "6aa5ee8f-d8ce-4b32-b588-f76914f29dd0"
+    ],
+    "scenes": {},
+    "redirect": [],
+    "deps": [],
+    "packs": {},
+    "name": "chenru",
+    "importBase": "",
+    "nativeBase": "",
+    "debug": true
+}

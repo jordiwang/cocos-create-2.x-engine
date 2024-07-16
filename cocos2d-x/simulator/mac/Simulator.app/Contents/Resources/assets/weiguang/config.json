@@ -1,0 +1,84 @@
+{
+    "paths": {
+        "45c7fd18-b5c3-4e9f-9e02-6ec49d20760b": [
+            "weiguang",
+            "sp.SkeletonData"
+        ],
+        "791f8741-41be-4c30-a44f-03412a056fbb": [
+            "weiguang",
+            "cc.Texture2D"
+        ],
+        "bf5af52f-0b59-4539-b7ba-623f9ebc05c6": [
+            "weiguang",
+            "cc.Prefab"
+        ],
+        "f24bce3a-8ef0-4134-97d5-f928ed1d9d21": [
+            "weiguang",
+            "cc.Asset"
+        ],
+        "fcaf3913-c577-4d33-8b97-e3d60da4a93e": [
+            "weiguang",
+            "cc.SpriteFrame",
+            1
+        ],
+        "6d5cb498-2485-421a-b5aa-c40a7b2ca772": [
+            "weiguang2",
+            "cc.SpriteFrame",
+            1
+        ],
+        "c73a4f1d-747f-49ad-a167-134fff96d7ad": [
+            "weiguang2",
+            "cc.Texture2D"
+        ],
+        "70c53ae8-64e7-417a-8d68-f576f1baff83": [
+            "weiguang3",
+            "cc.Texture2D"
+        ],
+        "d6af550b-4443-4fd0-b92b-86b9bd6b0c17": [
+            "weiguang3",
+            "cc.SpriteFrame",
+            1
+        ],
+        "14732421-6bfe-49c7-a11c-0f7faf386da2": [
+            "weiguang4",
+            "cc.Texture2D"
+        ],
+        "1f9dd9e8-4624-4038-8dcd-29301d492c1d": [
+            "weiguang4",
+            "cc.SpriteFrame",
+            1
+        ],
+        "24fca680-bf25-4809-acd9-e190195a828e": [
+            "weiguang5",
+            "cc.SpriteFrame",
+            1
+        ],
+        "dc46c6d5-f1a8-4e7a-aa15-2e4ac4026348": [
+            "weiguang5",
+            "cc.Texture2D"
+        ]
+    },
+    "uuids": [
+        "14732421-6bfe-49c7-a11c-0f7faf386da2",
+        "1f9dd9e8-4624-4038-8dcd-29301d492c1d",
+        "24fca680-bf25-4809-acd9-e190195a828e",
+        "45c7fd18-b5c3-4e9f-9e02-6ec49d20760b",
+        "6d5cb498-2485-421a-b5aa-c40a7b2ca772",
+        "70c53ae8-64e7-417a-8d68-f576f1baff83",
+        "791f8741-41be-4c30-a44f-03412a056fbb",
+        "bf5af52f-0b59-4539-b7ba-623f9ebc05c6",
+        "c73a4f1d-747f-49ad-a167-134fff96d7ad",
+        "d6af550b-4443-4fd0-b92b-86b9bd6b0c17",
+        "dc46c6d5-f1a8-4e7a-aa15-2e4ac4026348",
+        "f24bce3a-8ef0-4134-97d5-f928ed1d9d21",
+        "fcaf3913-c577-4d33-8b97-e3d60da4a93e"
+    ],
+    "scenes": {},
+    "redirect": [],
+    "deps": [],
+    "packs": {},
+    "name": "weiguang",
+    "importBase": "",
+    "nativeBase": "",
+    "debug": true
+}

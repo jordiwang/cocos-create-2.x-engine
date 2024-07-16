@@ -1,0 +1,51 @@
+{
+    "paths": {
+        "1832eb6f-77e0-47f7-b408-78b83036a1e3": [
+            "hehua",
+            "cc.Prefab"
+        ],
+        "2a0ff11e-3eb8-47cd-84dc-62424b7cb6f9": [
+            "hehua",
+            "cc.Texture2D"
+        ],
+        "942df173-1441-4e15-9e39-b8d49b1e68cf": [
+            "hehua",
+            "cc.Asset"
+        ],
+        "c4e6540e-e7dd-41b7-8b63-d6b7bf974954": [
+            "hehua",
+            "sp.SkeletonData"
+        ],
+        "d192bc57-1920-4115-a514-600c5c3ba906": [
+            "hehua",
+            "cc.SpriteFrame",
+            1
+        ],
+        "3ed3b4c1-d3b6-4fc1-9ad0-1f638cb2ee68": [
+            "hehua2",
+            "cc.SpriteFrame",
+            1
+        ],
+        "97096f5a-6877-446c-a675-ff482bb3fd71": [
+            "hehua2",
+            "cc.Texture2D"
+        ]
+    },
+    "uuids": [
+        "1832eb6f-77e0-47f7-b408-78b83036a1e3",
+        "2a0ff11e-3eb8-47cd-84dc-62424b7cb6f9",
+        "3ed3b4c1-d3b6-4fc1-9ad0-1f638cb2ee68",
+        "942df173-1441-4e15-9e39-b8d49b1e68cf",
+        "97096f5a-6877-446c-a675-ff482bb3fd71",
+        "c4e6540e-e7dd-41b7-8b63-d6b7bf974954",
+        "d192bc57-1920-4115-a514-600c5c3ba906"
+    ],
+    "scenes": {},
+    "redirect": [],
+    "deps": [],
+    "packs": {},
+    "name": "hehua",
+    "importBase": "",
+    "nativeBase": "",
+    "debug": true
+}

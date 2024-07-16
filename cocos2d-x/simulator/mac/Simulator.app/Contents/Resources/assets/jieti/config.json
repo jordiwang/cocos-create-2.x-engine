@@ -1,0 +1,51 @@
+{
+    "paths": {
+        "2d3ad53a-f477-4ead-bf27-9a01e51f8468": [
+            "jieti",
+            "sp.SkeletonData"
+        ],
+        "44ea6e99-ec5f-4cb3-9e7d-a45c4800b351": [
+            "jieti",
+            "cc.SpriteFrame",
+            1
+        ],
+        "5e15e908-d523-460c-a3f8-a094d7046c4b": [
+            "jieti",
+            "cc.Texture2D"
+        ],
+        "657b1741-b648-4ef9-bae7-a883e379b499": [
+            "jieti",
+            "cc.Prefab"
+        ],
+        "97f087d7-5b3c-4665-933c-af26b11ae61c": [
+            "jieti",
+            "cc.Asset"
+        ],
+        "406e6e93-bd2b-4235-a29c-9255dee523ca": [
+            "jieti2",
+            "cc.SpriteFrame",
+            1
+        ],
+        "d3eb07a0-8450-4d97-871f-6a2102c93175": [
+            "jieti2",
+            "cc.Texture2D"
+        ]
+    },
+    "uuids": [
+        "2d3ad53a-f477-4ead-bf27-9a01e51f8468",
+        "406e6e93-bd2b-4235-a29c-9255dee523ca",
+        "44ea6e99-ec5f-4cb3-9e7d-a45c4800b351",
+        "5e15e908-d523-460c-a3f8-a094d7046c4b",
+        "657b1741-b648-4ef9-bae7-a883e379b499",
+        "97f087d7-5b3c-4665-933c-af26b11ae61c",
+        "d3eb07a0-8450-4d97-871f-6a2102c93175"
+    ],
+    "scenes": {},
+    "redirect": [],
+    "deps": [],
+    "packs": {},
+    "name": "jieti",
+    "importBase": "",
+    "nativeBase": "",
+    "debug": true
+}

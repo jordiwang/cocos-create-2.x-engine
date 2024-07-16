@@ -1,0 +1,40 @@
+{
+    "paths": {
+        "0b8f10cf-8d70-43b5-ab86-f1d7021445aa": [
+            "woniu",
+            "cc.Texture2D"
+        ],
+        "0eea826a-00fd-4d2c-8dee-467d388d4f94": [
+            "woniu",
+            "cc.Asset"
+        ],
+        "b9eee7f8-dc5b-4313-8e8c-00d7b47dbcc4": [
+            "woniu",
+            "cc.Prefab"
+        ],
+        "c54afc71-6795-471b-a679-7e3acdc41dc1": [
+            "woniu",
+            "sp.SkeletonData"
+        ],
+        "f683376e-972d-47fb-806e-08a1c0496840": [
+            "woniu",
+            "cc.SpriteFrame",
+            1
+        ]
+    },
+    "uuids": [
+        "0b8f10cf-8d70-43b5-ab86-f1d7021445aa",
+        "0eea826a-00fd-4d2c-8dee-467d388d4f94",
+        "b9eee7f8-dc5b-4313-8e8c-00d7b47dbcc4",
+        "c54afc71-6795-471b-a679-7e3acdc41dc1",
+        "f683376e-972d-47fb-806e-08a1c0496840"
+    ],
+    "scenes": {},
+    "redirect": [],
+    "deps": [],
+    "packs": {},
+    "name": "woniu",
+    "importBase": "",
+    "nativeBase": "",
+    "debug": true
+}

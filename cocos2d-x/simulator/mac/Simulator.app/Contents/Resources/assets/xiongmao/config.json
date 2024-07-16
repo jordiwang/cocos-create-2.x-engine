@@ -1,0 +1,51 @@
+{
+    "paths": {
+        "11c9a6d9-c6ad-45b3-8d83-73f16b802fe6": [
+            "xiongmao",
+            "cc.Prefab"
+        ],
+        "21b682b2-cff4-4d6c-ab62-fbce89038818": [
+            "xiongmao",
+            "sp.SkeletonData"
+        ],
+        "51b222ae-e253-4405-b34e-a4c892a33b9d": [
+            "xiongmao",
+            "cc.Asset"
+        ],
+        "8c827141-82a3-4605-be6b-9558c54bfdf1": [
+            "xiongmao",
+            "cc.Texture2D"
+        ],
+        "ed6f1d16-b92d-4469-b534-b679ceea71fb": [
+            "xiongmao",
+            "cc.SpriteFrame",
+            1
+        ],
+        "44a764b2-3ea1-4181-baa1-3ba363f2edf4": [
+            "xiongmao2",
+            "cc.Texture2D"
+        ],
+        "fccaee04-3295-4b97-b4bb-d26295221062": [
+            "xiongmao2",
+            "cc.SpriteFrame",
+            1
+        ]
+    },
+    "uuids": [
+        "11c9a6d9-c6ad-45b3-8d83-73f16b802fe6",
+        "21b682b2-cff4-4d6c-ab62-fbce89038818",
+        "44a764b2-3ea1-4181-baa1-3ba363f2edf4",
+        "51b222ae-e253-4405-b34e-a4c892a33b9d",
+        "8c827141-82a3-4605-be6b-9558c54bfdf1",
+        "ed6f1d16-b92d-4469-b534-b679ceea71fb",
+        "fccaee04-3295-4b97-b4bb-d26295221062"
+    ],
+    "scenes": {},
+    "redirect": [],
+    "deps": [],
+    "packs": {},
+    "name": "xiongmao",
+    "importBase": "",
+    "nativeBase": "",
+    "debug": true
+}

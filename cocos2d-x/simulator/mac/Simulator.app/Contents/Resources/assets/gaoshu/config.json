@@ -1,0 +1,84 @@
+{
+    "paths": {
+        "04985dc2-c470-4115-a7fe-f00e5bd57f6b": [
+            "gaoshu",
+            "cc.Prefab"
+        ],
+        "4fa870ef-bc5c-4ec1-8a32-44b267407da8": [
+            "gaoshu",
+            "cc.SpriteFrame",
+            1
+        ],
+        "511658d5-bfab-4c6a-90fc-feea7acc32c9": [
+            "gaoshu",
+            "cc.Asset"
+        ],
+        "b0c099b1-d04c-47b2-9028-f4ec1100a6a7": [
+            "gaoshu",
+            "cc.Texture2D"
+        ],
+        "b32ab8ec-53ca-4183-97d0-2d22e8cf7724": [
+            "gaoshu",
+            "sp.SkeletonData"
+        ],
+        "5ca164c3-5662-4004-bb27-21f52caf4f12": [
+            "gaoshu2",
+            "cc.Texture2D"
+        ],
+        "c4d71063-252a-4e58-b1cc-c658b5f5abb4": [
+            "gaoshu2",
+            "cc.SpriteFrame",
+            1
+        ],
+        "14c7d456-aff1-472f-95c2-2ecc5e309a9a": [
+            "gaoshu3",
+            "cc.Texture2D"
+        ],
+        "f2bec2c0-f3a9-42e1-a750-5a8fc7d5bdd9": [
+            "gaoshu3",
+            "cc.SpriteFrame",
+            1
+        ],
+        "1fd4d970-c0b8-4c64-a989-6734fa0ee325": [
+            "gaoshu4",
+            "cc.SpriteFrame",
+            1
+        ],
+        "cdb3f72f-1cd9-4b60-8e1f-dfadbe8747ea": [
+            "gaoshu4",
+            "cc.Texture2D"
+        ],
+        "4a6fb525-33ed-4970-bd0b-4cf4ae22bb9a": [
+            "gaoshu5",
+            "cc.Texture2D"
+        ],
+        "77c3a3eb-f3c7-4560-8f00-72d44c5d5398": [
+            "gaoshu5",
+            "cc.SpriteFrame",
+            1
+        ]
+    },
+    "uuids": [
+        "04985dc2-c470-4115-a7fe-f00e5bd57f6b",
+        "14c7d456-aff1-472f-95c2-2ecc5e309a9a",
+        "1fd4d970-c0b8-4c64-a989-6734fa0ee325",
+        "4a6fb525-33ed-4970-bd0b-4cf4ae22bb9a",
+        "4fa870ef-bc5c-4ec1-8a32-44b267407da8",
+        "511658d5-bfab-4c6a-90fc-feea7acc32c9",
+        "5ca164c3-5662-4004-bb27-21f52caf4f12",
+        "77c3a3eb-f3c7-4560-8f00-72d44c5d5398",
+        "b0c099b1-d04c-47b2-9028-f4ec1100a6a7",
+        "b32ab8ec-53ca-4183-97d0-2d22e8cf7724",
+        "c4d71063-252a-4e58-b1cc-c658b5f5abb4",
+        "cdb3f72f-1cd9-4b60-8e1f-dfadbe8747ea",
+        "f2bec2c0-f3a9-42e1-a750-5a8fc7d5bdd9"
+    ],
+    "scenes": {},
+    "redirect": [],
+    "deps": [],
+    "packs": {},
+    "name": "gaoshu",
+    "importBase": "",
+    "nativeBase": "",
+    "debug": true
+}

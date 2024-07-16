@@ -1,0 +1,51 @@
+{
+    "paths": {
+        "15d6eb60-054f-43b1-9666-cd7de20fe501": [
+            "banjiu",
+            "cc.Texture2D"
+        ],
+        "23cb0bbb-d554-4d2a-ae7a-a72e395f65f8": [
+            "banjiu",
+            "sp.SkeletonData"
+        ],
+        "36f8bf68-3678-416d-adc2-16993c02b24e": [
+            "banjiu",
+            "cc.Asset"
+        ],
+        "6c34b601-b5b5-4012-8a8e-0518e8212e46": [
+            "banjiu",
+            "cc.SpriteFrame",
+            1
+        ],
+        "ac6ef839-0485-44ce-9e60-d5c63547ed7e": [
+            "banjiu",
+            "cc.Prefab"
+        ],
+        "245dcd0a-5d44-46f2-b6e6-0037b0cd4747": [
+            "banjiu2",
+            "cc.SpriteFrame",
+            1
+        ],
+        "316990b3-b561-4397-8aa4-8a6b5f00bba3": [
+            "banjiu2",
+            "cc.Texture2D"
+        ]
+    },
+    "uuids": [
+        "15d6eb60-054f-43b1-9666-cd7de20fe501",
+        "23cb0bbb-d554-4d2a-ae7a-a72e395f65f8",
+        "245dcd0a-5d44-46f2-b6e6-0037b0cd4747",
+        "316990b3-b561-4397-8aa4-8a6b5f00bba3",
+        "36f8bf68-3678-416d-adc2-16993c02b24e",
+        "6c34b601-b5b5-4012-8a8e-0518e8212e46",
+        "ac6ef839-0485-44ce-9e60-d5c63547ed7e"
+    ],
+    "scenes": {},
+    "redirect": [],
+    "deps": [],
+    "packs": {},
+    "name": "banjiu",
+    "importBase": "",
+    "nativeBase": "",
+    "debug": true
+}

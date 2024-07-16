@@ -1,0 +1,84 @@
+{
+    "paths": {
+        "04bee215-9a09-4166-bbf5-dc7540887ead": [
+            "xingcao",
+            "cc.Prefab"
+        ],
+        "166b21c8-af8c-4d36-85ef-c03eb8c4a5cb": [
+            "xingcao",
+            "cc.Asset"
+        ],
+        "60f4453a-f8bb-475b-a46c-b5b500df448b": [
+            "xingcao",
+            "cc.Texture2D"
+        ],
+        "a4339b32-7eb0-4a38-a20b-6f85f5be2c12": [
+            "xingcao",
+            "cc.SpriteFrame",
+            1
+        ],
+        "d71bce4d-be36-4e11-ba99-42c7fad993d3": [
+            "xingcao",
+            "sp.SkeletonData"
+        ],
+        "68f04bd3-e165-40a5-936a-ca64c2720d13": [
+            "xingcao2",
+            "cc.SpriteFrame",
+            1
+        ],
+        "fac98a9b-d513-4dda-9243-d7d70c5cf555": [
+            "xingcao2",
+            "cc.Texture2D"
+        ],
+        "1021e684-b603-48e9-9c57-119cb435c35c": [
+            "xingcao3",
+            "cc.Texture2D"
+        ],
+        "eb51d53b-7dd9-4d44-b5eb-e7312b267f5d": [
+            "xingcao3",
+            "cc.SpriteFrame",
+            1
+        ],
+        "ad8d24e2-63b4-41e7-ae7a-ac790d2aef89": [
+            "xingcao4",
+            "cc.SpriteFrame",
+            1
+        ],
+        "db4f3ada-3a5a-4ab0-9a20-9d24deae2854": [
+            "xingcao4",
+            "cc.Texture2D"
+        ],
+        "220fd5bf-720a-4591-8dde-be48b145d59e": [
+            "xingcao5",
+            "cc.SpriteFrame",
+            1
+        ],
+        "4a13f994-34d1-4a80-9e87-15acf71be3e0": [
+            "xingcao5",
+            "cc.Texture2D"
+        ]
+    },
+    "uuids": [
+        "04bee215-9a09-4166-bbf5-dc7540887ead",
+        "1021e684-b603-48e9-9c57-119cb435c35c",
+        "166b21c8-af8c-4d36-85ef-c03eb8c4a5cb",
+        "220fd5bf-720a-4591-8dde-be48b145d59e",
+        "4a13f994-34d1-4a80-9e87-15acf71be3e0",
+        "60f4453a-f8bb-475b-a46c-b5b500df448b",
+        "68f04bd3-e165-40a5-936a-ca64c2720d13",
+        "a4339b32-7eb0-4a38-a20b-6f85f5be2c12",
+        "ad8d24e2-63b4-41e7-ae7a-ac790d2aef89",
+        "d71bce4d-be36-4e11-ba99-42c7fad993d3",
+        "db4f3ada-3a5a-4ab0-9a20-9d24deae2854",
+        "eb51d53b-7dd9-4d44-b5eb-e7312b267f5d",
+        "fac98a9b-d513-4dda-9243-d7d70c5cf555"
+    ],
+    "scenes": {},
+    "redirect": [],
+    "deps": [],
+    "packs": {},
+    "name": "xingcao",
+    "importBase": "",
+    "nativeBase": "",
+    "debug": true
+}

@@ -1,0 +1,62 @@
+{
+    "paths": {
+        "143327a4-5122-437d-84ea-d5ea68f8357b": [
+            "wugui",
+            "cc.Asset"
+        ],
+        "3f291efd-1354-4546-91a7-d931febe8b09": [
+            "wugui",
+            "cc.Prefab"
+        ],
+        "7973eba5-aa74-4da2-9c77-2bbbd2b19191": [
+            "wugui",
+            "cc.Texture2D"
+        ],
+        "9d9a8987-a6fc-4039-a600-4b013480c902": [
+            "wugui",
+            "cc.SpriteFrame",
+            1
+        ],
+        "dc0b6b46-f7c1-4e91-809a-1d252c8a19c9": [
+            "wugui",
+            "sp.SkeletonData"
+        ],
+        "27dbb012-5611-4214-b33d-457e441b825c": [
+            "wugui2",
+            "cc.SpriteFrame",
+            1
+        ],
+        "8aa84b13-3428-4eca-a94c-c0d0223f1930": [
+            "wugui2",
+            "cc.Texture2D"
+        ],
+        "a0f4c4c8-9729-482c-8411-1e5eec88a987": [
+            "wugui3",
+            "cc.Texture2D"
+        ],
+        "f6fbc65c-4605-4f1f-866f-acf07e0eb267": [
+            "wugui3",
+            "cc.SpriteFrame",
+            1
+        ]
+    },
+    "uuids": [
+        "143327a4-5122-437d-84ea-d5ea68f8357b",
+        "27dbb012-5611-4214-b33d-457e441b825c",
+        "3f291efd-1354-4546-91a7-d931febe8b09",
+        "7973eba5-aa74-4da2-9c77-2bbbd2b19191",
+        "8aa84b13-3428-4eca-a94c-c0d0223f1930",
+        "9d9a8987-a6fc-4039-a600-4b013480c902",
+        "a0f4c4c8-9729-482c-8411-1e5eec88a987",
+        "dc0b6b46-f7c1-4e91-809a-1d252c8a19c9",
+        "f6fbc65c-4605-4f1f-866f-acf07e0eb267"
+    ],
+    "scenes": {},
+    "redirect": [],
+    "deps": [],
+    "packs": {},
+    "name": "wugui",
+    "importBase": "",
+    "nativeBase": "",
+    "debug": true
+}

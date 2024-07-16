@@ -1,0 +1,16 @@
+{
+    "paths": {},
+    "uuids": [
+        "4816369a-b2eb-4f95-9a3f-79944162b9ee"
+    ],
+    "scenes": {
+        "db://assets/start/views/StartScene.fire": "4816369a-b2eb-4f95-9a3f-79944162b9ee"
+    },
+    "redirect": [],
+    "deps": [],
+    "packs": {},
+    "name": "main",
+    "importBase": "",
+    "nativeBase": "",
+    "debug": true
+}

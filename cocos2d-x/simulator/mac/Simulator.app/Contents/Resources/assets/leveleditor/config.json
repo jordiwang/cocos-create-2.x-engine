@@ -1,0 +1,70 @@
+{
+    "paths": {
+        "c8483515-713d-4d88-9fe0-a4d13fbf5b71": [
+            "AlgorithmRange",
+            "cc.Prefab"
+        ],
+        "584e0ae3-1819-40ce-91e9-8b833b7df982": [
+            "AlgorithmWeight",
+            "cc.Prefab"
+        ],
+        "6f67a095-7667-4442-b53c-1096c43cb19e": [
+            "DropDownBox",
+            "cc.Prefab"
+        ],
+        "d0393fd2-effd-4af7-a822-2abbdfbb1736": [
+            "ElementTarget",
+            "cc.Prefab"
+        ],
+        "49882827-03ac-4797-b9f6-473e957147f5": [
+            "NoCollectDistribution",
+            "cc.Prefab"
+        ],
+        "557813e9-694d-46c0-8beb-bff4002587f7": [
+            "distrubution",
+            "cc.Prefab"
+        ],
+        "228c375d-dea3-4301-b341-b06f84e3884a": [
+            "kuai2-8x8",
+            "cc.Texture2D"
+        ],
+        "402fa740-53d7-4c5d-b61c-fb2ddc56a44f": [
+            "kuai2-8x8",
+            "cc.SpriteFrame",
+            1
+        ],
+        "f8817b82-13bb-4845-b8ef-ba054c6222b8": [
+            "selectElement",
+            "cc.Prefab"
+        ],
+        "ed970c39-e8e5-48cd-812a-ac4080e9a8a4": [
+            "views/LevelEditor",
+            "cc.Prefab"
+        ],
+        "5df51d79-e94b-4d82-844a-c7fc2930b902": [
+            "views/LevelPreview",
+            "cc.Prefab"
+        ]
+    },
+    "uuids": [
+        "228c375d-dea3-4301-b341-b06f84e3884a",
+        "402fa740-53d7-4c5d-b61c-fb2ddc56a44f",
+        "49882827-03ac-4797-b9f6-473e957147f5",
+        "557813e9-694d-46c0-8beb-bff4002587f7",
+        "584e0ae3-1819-40ce-91e9-8b833b7df982",
+        "5df51d79-e94b-4d82-844a-c7fc2930b902",
+        "6f67a095-7667-4442-b53c-1096c43cb19e",
+        "c8483515-713d-4d88-9fe0-a4d13fbf5b71",
+        "d0393fd2-effd-4af7-a822-2abbdfbb1736",
+        "ed970c39-e8e5-48cd-812a-ac4080e9a8a4",
+        "f8817b82-13bb-4845-b8ef-ba054c6222b8"
+    ],
+    "scenes": {},
+    "redirect": [],
+    "deps": [],
+    "packs": {},
+    "name": "leveleditor",
+    "importBase": "",
+    "nativeBase": "",
+    "debug": true
+}

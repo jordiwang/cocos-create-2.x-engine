@@ -1,0 +1,62 @@
+{
+    "paths": {
+        "2cc3643b-0eb6-4f82-b903-e912a29d660e": [
+            "piaoyao",
+            "cc.Prefab"
+        ],
+        "88963e23-55cf-4a8b-9844-c2255e712639": [
+            "piaoyao",
+            "cc.Texture2D"
+        ],
+        "ad05fcaa-0b00-480e-bd06-10daedb436da": [
+            "piaoyao",
+            "cc.Asset"
+        ],
+        "cf6025d2-fdd7-4faa-93ba-99e26e3a5334": [
+            "piaoyao",
+            "sp.SkeletonData"
+        ],
+        "d1e4224e-329b-4666-95cd-8751fcac17c6": [
+            "piaoyao",
+            "cc.SpriteFrame",
+            1
+        ],
+        "bcdc40f2-e277-4a6b-95f6-8b1743904199": [
+            "piaoyao2",
+            "cc.Texture2D"
+        ],
+        "d5d3662f-ca8d-45c0-8eec-bfc81ab649d3": [
+            "piaoyao2",
+            "cc.SpriteFrame",
+            1
+        ],
+        "477fe356-240a-42dd-b3d5-ed14e4f86452": [
+            "piaoyao3",
+            "cc.SpriteFrame",
+            1
+        ],
+        "c9451194-3ab7-400d-a7fe-7eebaf4d75aa": [
+            "piaoyao3",
+            "cc.Texture2D"
+        ]
+    },
+    "uuids": [
+        "2cc3643b-0eb6-4f82-b903-e912a29d660e",
+        "477fe356-240a-42dd-b3d5-ed14e4f86452",
+        "88963e23-55cf-4a8b-9844-c2255e712639",
+        "ad05fcaa-0b00-480e-bd06-10daedb436da",
+        "bcdc40f2-e277-4a6b-95f6-8b1743904199",
+        "c9451194-3ab7-400d-a7fe-7eebaf4d75aa",
+        "cf6025d2-fdd7-4faa-93ba-99e26e3a5334",
+        "d1e4224e-329b-4666-95cd-8751fcac17c6",
+        "d5d3662f-ca8d-45c0-8eec-bfc81ab649d3"
+    ],
+    "scenes": {},
+    "redirect": [],
+    "deps": [],
+    "packs": {},
+    "name": "piaoyao",
+    "importBase": "",
+    "nativeBase": "",
+    "debug": true
+}

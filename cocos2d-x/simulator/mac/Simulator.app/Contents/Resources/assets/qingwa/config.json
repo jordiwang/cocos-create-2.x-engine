@@ -1,0 +1,40 @@
+{
+    "paths": {
+        "1dc13557-ee46-44a3-a1cd-cccde4f54c86": [
+            "qingwa",
+            "cc.Asset"
+        ],
+        "3bf3eb14-91dc-43dc-87c8-400d8474fa21": [
+            "qingwa",
+            "cc.Prefab"
+        ],
+        "4dd73dcd-168a-4d48-9bcd-24d8a48ef8dd": [
+            "qingwa",
+            "sp.SkeletonData"
+        ],
+        "e8dbbfd5-641f-4c58-a199-e3f98036be1c": [
+            "qingwa",
+            "cc.SpriteFrame",
+            1
+        ],
+        "fb0447a6-c92d-48c1-857c-a88c378dbc7c": [
+            "qingwa",
+            "cc.Texture2D"
+        ]
+    },
+    "uuids": [
+        "1dc13557-ee46-44a3-a1cd-cccde4f54c86",
+        "3bf3eb14-91dc-43dc-87c8-400d8474fa21",
+        "4dd73dcd-168a-4d48-9bcd-24d8a48ef8dd",
+        "e8dbbfd5-641f-4c58-a199-e3f98036be1c",
+        "fb0447a6-c92d-48c1-857c-a88c378dbc7c"
+    ],
+    "scenes": {},
+    "redirect": [],
+    "deps": [],
+    "packs": {},
+    "name": "qingwa",
+    "importBase": "",
+    "nativeBase": "",
+    "debug": true
+}

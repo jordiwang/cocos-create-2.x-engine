@@ -1,0 +1,84 @@
+{
+    "paths": {
+        "4c7f65b1-9937-4215-8aa5-4ea02619b475": [
+            "fengchuishulin",
+            "cc.Asset"
+        ],
+        "634b6fa4-5579-439e-b84f-d12e055c19fa": [
+            "fengchuishulin",
+            "cc.Texture2D"
+        ],
+        "663b5f9e-c05c-4da5-abbf-b7d679622f72": [
+            "fengchuishulin",
+            "cc.Prefab"
+        ],
+        "a1dcdef9-7190-486f-ae7c-4f104b6d899e": [
+            "fengchuishulin",
+            "cc.SpriteFrame",
+            1
+        ],
+        "a905db86-b5cf-44ab-94bf-fb74c7ac868d": [
+            "fengchuishulin",
+            "sp.SkeletonData"
+        ],
+        "163aa98c-198b-469b-86bc-8ea6d913c7eb": [
+            "fengchuishulin2",
+            "cc.Texture2D"
+        ],
+        "dcb1718b-790e-45e9-81d8-5d55ccd577d2": [
+            "fengchuishulin2",
+            "cc.SpriteFrame",
+            1
+        ],
+        "6ca8f361-ab14-45b2-ab0c-abe4ca904a6c": [
+            "fengchuishulin3",
+            "cc.Texture2D"
+        ],
+        "b6b8d73a-56af-4628-99cf-d74b9c978a71": [
+            "fengchuishulin3",
+            "cc.SpriteFrame",
+            1
+        ],
+        "99c66400-ead0-441f-8db2-801b0b8b729a": [
+            "fengchuishulin4",
+            "cc.Texture2D"
+        ],
+        "c028ee71-fae8-4adf-8ae1-75cefd497328": [
+            "fengchuishulin4",
+            "cc.SpriteFrame",
+            1
+        ],
+        "4705f5fe-a067-4ea9-b2b9-e495d0e454f7": [
+            "fengchuishulin5",
+            "cc.Texture2D"
+        ],
+        "db892e38-20c8-4385-8635-e7f30c122517": [
+            "fengchuishulin5",
+            "cc.SpriteFrame",
+            1
+        ]
+    },
+    "uuids": [
+        "163aa98c-198b-469b-86bc-8ea6d913c7eb",
+        "4705f5fe-a067-4ea9-b2b9-e495d0e454f7",
+        "4c7f65b1-9937-4215-8aa5-4ea02619b475",
+        "634b6fa4-5579-439e-b84f-d12e055c19fa",
+        "663b5f9e-c05c-4da5-abbf-b7d679622f72",
+        "6ca8f361-ab14-45b2-ab0c-abe4ca904a6c",
+        "99c66400-ead0-441f-8db2-801b0b8b729a",
+        "a1dcdef9-7190-486f-ae7c-4f104b6d899e",
+        "a905db86-b5cf-44ab-94bf-fb74c7ac868d",
+        "b6b8d73a-56af-4628-99cf-d74b9c978a71",
+        "c028ee71-fae8-4adf-8ae1-75cefd497328",
+        "db892e38-20c8-4385-8635-e7f30c122517",
+        "dcb1718b-790e-45e9-81d8-5d55ccd577d2"
+    ],
+    "scenes": {},
+    "redirect": [],
+    "deps": [],
+    "packs": {},
+    "name": "fengchuishulin",
+    "importBase": "",
+    "nativeBase": "",
+    "debug": true
+}

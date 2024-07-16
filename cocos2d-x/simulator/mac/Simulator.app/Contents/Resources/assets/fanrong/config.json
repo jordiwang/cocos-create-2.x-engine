@@ -1,0 +1,51 @@
+{
+    "paths": {
+        "2add2fd3-0f90-4c37-a19b-3863d2c45558": [
+            "fanrong",
+            "cc.Texture2D"
+        ],
+        "6647cc5b-83cd-425d-b59f-c8316880e98c": [
+            "fanrong",
+            "sp.SkeletonData"
+        ],
+        "72109df8-0f00-4a24-b811-eec4911ee2b1": [
+            "fanrong",
+            "cc.Asset"
+        ],
+        "bea3a3ca-c5a0-4154-9733-d47fa59b33a2": [
+            "fanrong",
+            "cc.Prefab"
+        ],
+        "d456e695-0146-40ba-ba43-300753e463e2": [
+            "fanrong",
+            "cc.SpriteFrame",
+            1
+        ],
+        "11a2944d-f492-4191-8352-84465a3f0a49": [
+            "fanrong2",
+            "cc.Texture2D"
+        ],
+        "626b54df-413e-4996-8d7c-81bb316ba640": [
+            "fanrong2",
+            "cc.SpriteFrame",
+            1
+        ]
+    },
+    "uuids": [
+        "11a2944d-f492-4191-8352-84465a3f0a49",
+        "2add2fd3-0f90-4c37-a19b-3863d2c45558",
+        "626b54df-413e-4996-8d7c-81bb316ba640",
+        "6647cc5b-83cd-425d-b59f-c8316880e98c",
+        "72109df8-0f00-4a24-b811-eec4911ee2b1",
+        "bea3a3ca-c5a0-4154-9733-d47fa59b33a2",
+        "d456e695-0146-40ba-ba43-300753e463e2"
+    ],
+    "scenes": {},
+    "redirect": [],
+    "deps": [],
+    "packs": {},
+    "name": "fanrong",
+    "importBase": "",
+    "nativeBase": "",
+    "debug": true
+}

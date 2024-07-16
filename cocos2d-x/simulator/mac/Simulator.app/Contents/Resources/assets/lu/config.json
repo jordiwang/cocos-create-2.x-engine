@@ -1,0 +1,51 @@
+{
+    "paths": {
+        "0174ebce-733b-49e0-b210-8935a8446f33": [
+            "lu",
+            "cc.Texture2D"
+        ],
+        "5fcc2cf3-7524-43c3-a322-c2dd8d2e111e": [
+            "lu",
+            "cc.Asset"
+        ],
+        "6d740bde-0354-4368-9fa7-4b29bfc29449": [
+            "lu",
+            "cc.SpriteFrame",
+            1
+        ],
+        "f06fdcf0-c59c-4fff-8cf3-13b3f4dfaadb": [
+            "lu",
+            "cc.Prefab"
+        ],
+        "fd77252c-af92-469f-869e-76fe4a57ded1": [
+            "lu",
+            "sp.SkeletonData"
+        ],
+        "d02933c7-3fc3-4a5e-95be-04e8da442eef": [
+            "lu2",
+            "cc.SpriteFrame",
+            1
+        ],
+        "f595e652-1b29-4da0-baad-c3da6bc3eff9": [
+            "lu2",
+            "cc.Texture2D"
+        ]
+    },
+    "uuids": [
+        "0174ebce-733b-49e0-b210-8935a8446f33",
+        "5fcc2cf3-7524-43c3-a322-c2dd8d2e111e",
+        "6d740bde-0354-4368-9fa7-4b29bfc29449",
+        "d02933c7-3fc3-4a5e-95be-04e8da442eef",
+        "f06fdcf0-c59c-4fff-8cf3-13b3f4dfaadb",
+        "f595e652-1b29-4da0-baad-c3da6bc3eff9",
+        "fd77252c-af92-469f-869e-76fe4a57ded1"
+    ],
+    "scenes": {},
+    "redirect": [],
+    "deps": [],
+    "packs": {},
+    "name": "lu",
+    "importBase": "",
+    "nativeBase": "",
+    "debug": true
+}
