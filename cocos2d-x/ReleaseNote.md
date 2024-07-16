@@ -6,7 +6,6 @@
 - Android/iOS 集成 tflite
 - 添加运行时 GPU 压缩纹理/缓存 支持
 
-
 ### 2024-04-01
 
 - iOS 平台升级v8 到 12.0.267.10
@@ -32,9 +31,6 @@
   - 简化 HelperMacros 实现，减少重复代码
   - 缓存 jsb 临时参数对象，提升调用速度
   - string_view 参数优化
-- 资源加密相关
-  - 移除全局资源加密（xor）
-  - 重新实现 Image/Script 相关的解密方法，提升效率
 - 使用 wuffs 解码部分图片资源
 - 在 C++ 种 dispatch 触控事件，减少调用延迟
 - 减少 图片纹理在 C++ -> JS -> OpenGL 的内存拷贝。
